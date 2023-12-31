@@ -1,0 +1,166 @@
+Concept,Prerequisite,label_prereq
+Data mining,Anomaly detection,1
+Data mining,Association rule learning,1
+Interquartile range,Median,1
+Pruning (decision trees),Decision tree learning,1
+Receiver operating characteristic,Statistical classification,1
+K-medoids,Cluster analysis,1
+Maximum likelihood,Likelihood function,1
+Precision and recall,Information retrieval,1
+Spectral clustering,Dimensionality reduction,1
+Precision and recall,Statistical classification,1
+Decision tree,Conditional probability,1
+Feedforward neural network,Artificial neural network,1
+Anomaly detection,Outlier,1
+Fuzzy clustering,Cluster analysis,1
+Random forest,Bootstrapping (statistics),1
+Artificial neural network,Machine learning,1
+K-means clustering,Machine learning,1
+Central tendency,Median,1
+Boosting (machine learning),Machine learning,1
+Interquartile range,Quartile,1
+Likelihood function,Conditional probability distribution,1
+Poisson regression,Regression analysis,1
+Random forest,Decision tree learning,1
+Random forest,Joint probability distribution,1
+Random forest,Machine learning,1
+Backpropagation,Joint probability distribution,1
+AdaBoost,Joint probability distribution,1
+Random forest,Statistical classification,1
+Fuzzy clustering,Data analysis,1
+Random forest,Conditional probability,1
+K-medoids,Standard deviation,1
+K-medoids,Arithmetic mean,1
+Expectation–maximization algorithm,Conditional probability distribution,1
+K-means clustering,Probability density function,1
+Artificial neural network,Joint probability distribution,1
+K-medoids,Correlation and dependence,1
+AdaBoost,Machine learning,1
+Data mining,Outlier,1
+Data mining,Data analysis,1
+Random forest,Probability density function,1
+Data mining,Conditional probability,1
+K-means clustering,Joint probability distribution,1
+Backpropagation,Machine learning,1
+Poisson regression,Probability density function,1
+Level of measurement,Median,1
+Backpropagation,Probability density function,1
+Maximum likelihood,Probability density function,1
+Maximum likelihood,Conditional probability distribution,1
+Fuzzy clustering,Arithmetic mean,1
+Pruning (decision trees),Decision tree,1
+Decision tree learning,Conditional probability,1
+Artificial neural network,Probability density function,1
+Expectation–maximization algorithm,Conditional probability,1
+Decision tree model,Conditional probability,1
+Likelihood function,Conditional probability,1
+Boosting (machine learning),Joint probability distribution,1
+Boosting (machine learning),Probability density function,1
+Pruning (decision trees),Conditional probability,1
+Machine learning,AdaBoost,0
+K-means clustering,Semi-supervised learning,0
+Confidence interval,Data mining,0
+Statistical classification,F1 score,0
+Backpropagation,Gradient descent,0
+Probability density function,Boosting (machine learning),0
+Machine learning,Naive Bayes classifier,0
+Outlier,Data mining,0
+Correlation and dependence,K-means clustering,0
+Central tendency,Level of measurement,0
+Bayesian network,Standard deviation,0
+Confidence interval,Median,0
+Feedforward neural network,Gradient descent,0
+Mixture model,Naive Bayes classifier,0
+Statistical hypothesis testing,Bayes' theorem,0
+Backpropagation,Nonlinear system,0
+Artificial neural network,Posterior probability,0
+Machine learning,Support vector machine,0
+Statistical hypothesis testing,Type I and type II errors,0
+Hyperplane,Linear separability,0
+Probability density function,Mixture model,0
+Maximum likelihood,Prior probability,0
+Anomaly detection,Statistical classification,0
+Maximum likelihood,Mixture model,0
+Statistical population,Statistical hypothesis testing,0
+Median,Central tendency,0
+Support vector machine,Decision tree learning,0
+Standard deviation,Statistical hypothesis testing,0
+Data analysis,Spectral clustering,0
+Naive Bayes classifier,Prior probability,0
+Bayes' theorem,Naive Bayes classifier,0
+Conditional probability,Association rule learning,0
+Decision tree learning,Data analysis,0
+Arithmetic mean,K-means clustering,0
+DBSCAN,Anomaly detection,0
+Conditional probability,Apriori algorithm,0
+Sample (statistics),Data mining,0
+Artificial neural network,Regression analysis,0
+Likelihood function,Statistical model,0
+Statistical classification,Artificial neural network,0
+Poisson regression,Maximum likelihood,0
+Machine learning,Multiclass classification,0
+Data analysis,Mixture model,0
+Arithmetic mean,Naive Bayes classifier,0
+Data analysis,Hierarchical clustering,0
+Sample (statistics),Precision and recall,0
+K-means clustering,Fuzzy clustering,0
+Likelihood function,Expectation–maximization algorithm,0
+Regression analysis,Least squares,0
+Ensemble learning,Random forest,0
+Statistical population,F1 score,0
+Statistical classification,Sensitivity and specificity,0
+Standard deviation,Fuzzy clustering,0
+Standard deviation,Mixture model,0
+Cluster analysis,False positives and false negatives,0
+K-means clustering,Spectral clustering,0
+Conditional probability,Conditional probability distribution,0
+Correlation and dependence,Spectral clustering,0
+Data analysis,Clustering high-dimensional data,0
+Decision tree learning,Pruning (decision trees),0
+Cluster analysis,Statistical classification,0
+K-means clustering,Principal component analysis,0
+Mixture model,Statistical population,0
+Posterior probability,Statistical classification,0
+Probability density function,Joint probability distribution,0
+Conditional independence,Naive Bayes classifier,0
+Conditional probability,Data mining,0
+Confidence interval,Type I and type II errors,0
+Standard deviation,Biclustering,0
+Boosting (machine learning),Cross-validation (statistics),0
+Correlation and dependence,Fuzzy clustering,0
+Probability density function,Median,0
+Probability density function,Maximum likelihood,0
+Web search engine,Data mining,0
+Bootstrapping (statistics),Random forest,0
+Conditional probability distribution,Maximum likelihood,0
+Hyperplane separation theorem,Support vector machine,0
+Support vector machine,Classification rule,0
+Statistical hypothesis testing,Posterior probability,0
+Probability density function,Expectation–maximization algorithm,0
+Standard deviation,K-means clustering,0
+Statistical population,Sampling (statistics),0
+Accuracy and precision,Positive and negative predictive values,0
+Hierarchical clustering,DBSCAN,0
+Stepwise regression,Data mining,0
+Statistical significance,Conditional probability,0
+Cluster analysis,Artificial neural network,0
+Central tendency,Descriptive statistics,0
+Prior probability,Bayesian network,0
+Regression analysis,Linear regression,0
+Likelihood function,Prior probability,0
+Conditional probability distribution,Bayes' theorem,0
+Likelihood function,Maximum likelihood,0
+Data analysis,K-means clustering,0
+Confidence interval,Maximum likelihood,0
+DBSCAN,Data mining,0
+Interquartile range,Standard deviation,0
+Naive Bayes classifier,Random forest,0
+Positive and negative predictive values,Confusion matrix,0
+Data matrix (multivariate statistics),Linear regression,0
+Precision and recall,F1 score,0
+Sample (statistics),Statistical hypothesis testing,0
+Probability density function,Decision tree learning,0
+Standard deviation,Spectral clustering,0
+Sample (statistics),Statistical significance,0
+K-means clustering,Data mining,0
+Biclustering,Hierarchical clustering,0

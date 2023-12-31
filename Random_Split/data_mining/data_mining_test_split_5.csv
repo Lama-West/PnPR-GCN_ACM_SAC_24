@@ -1,0 +1,166 @@
+Concept,Prerequisite,label_prereq
+DBSCAN,Arithmetic mean,1
+OPTICS algorithm,Arithmetic mean,1
+F1 score,Standard deviation,1
+Bayesian network,Probability density function,1
+Naive Bayes classifier,Probability density function,1
+Bayes' theorem,Conditional probability distribution,1
+Statistical hypothesis testing,Confidence interval,1
+K-medoids,Arithmetic mean,1
+Feedforward neural network,Statistical classification,1
+K-medoids,Data analysis,1
+F1 score,Confidence interval,1
+Precision and recall,Type I and type II errors,1
+Precision and recall,Statistical classification,1
+Data mining,Correlation and dependence,1
+Clustering high-dimensional data,Correlation and dependence,1
+Decision tree model,Statistical classification,1
+Fuzzy clustering,Standard deviation,1
+Genetic algorithm,Natural selection,1
+Confidence interval,Sample (statistics),1
+Naive Bayes classifier,Correlation and dependence,1
+Least squares,Arithmetic mean,1
+Backpropagation,Machine learning,1
+Machine learning,Joint probability distribution,1
+Principal component analysis,Arithmetic mean,1
+Type I and type II errors,Statistical hypothesis testing,1
+Precision and recall,Sample (statistics),1
+OPTICS algorithm,Cluster analysis,1
+F1 score,Null hypothesis,1
+Hierarchical clustering,Data analysis,1
+Type I and type II errors,Standard deviation,1
+Fuzzy clustering,Correlation and dependence,1
+DBSCAN,Correlation and dependence,1
+Single-linkage clustering,Cluster analysis,1
+Sample (statistics),Statistical population,1
+Confidence interval,Standard deviation,1
+Hierarchical clustering,Arithmetic mean,1
+Confidence interval,Statistical population,1
+Artificial neural network,Probability density function,1
+Sampling (statistics),Statistical population,1
+K-means clustering,Data analysis,1
+Naive Bayes classifier,Likelihood function,1
+Level of measurement,Mode (statistics),1
+Backpropagation,Probability density function,1
+F1 score,Information retrieval,1
+K-medoids,Standard deviation,1
+Student's t-test,Standard deviation,1
+Data mining,Statistical classification,1
+Naive Bayes classifier,Bayes' theorem,1
+F1 score,Sample (statistics),1
+F1 score,Precision and recall,1
+Central tendency,Median,1
+F1 score,Statistical hypothesis testing,1
+Pruning (decision trees),Decision tree,1
+Support vector machine,Linear separability,1
+Correlation and dependence,Arithmetic mean,1
+F1 score,Type I and type II errors,1
+Single-linkage clustering,Data analysis,1
+Statistical hypothesis testing,Standard deviation,1
+Likelihood function,Conditional probability,1
+Biclustering,Data analysis,1
+Feedforward neural network,Gradient descent,0
+Correlation and dependence,Clustering high-dimensional data,0
+Statistical classification,Naive Bayes classifier,0
+False positives and false negatives,Positive and negative predictive values,0
+Hierarchical clustering,Mixture model,0
+Prior probability,Bayesian network,0
+Cluster analysis,Biclustering,0
+Signal-to-noise ratio,Standard deviation,0
+Arithmetic mean,Principal component analysis,0
+K-means clustering,Data mining,0
+Joint probability distribution,Conditional probability,0
+Statistical classification,Decision tree,0
+Hyperplane separation theorem,Support vector machine,0
+Cluster analysis,DBSCAN,0
+Principal component analysis,Cluster analysis,0
+Likelihood function,Poisson regression,0
+Likelihood function,Expectation–maximization algorithm,0
+Posterior probability,Statistical classification,0
+DBSCAN,Outlier,0
+Mixture model,Maximum likelihood,0
+Decision tree learning,Bootstrap aggregating,0
+Cluster analysis,Data mining,0
+Hierarchical clustering,DBSCAN,0
+Dimensionality reduction,Spectral clustering,0
+Mixture model,Mode (statistics),0
+Positive and negative predictive values,Confusion matrix,0
+Precision and recall,Receiver operating characteristic,0
+Support vector machine,Regression analysis,0
+K-means clustering,Fuzzy clustering,0
+Hyperplane,Support vector machine,0
+Maximum likelihood,Linear regression,0
+Biclustering,Mode (statistics),0
+Genetic algorithm,Mutation (genetic algorithm),0
+Regression analysis,Confidence interval,0
+Regression analysis,Outlier,0
+Conditional probability distribution,Maximum likelihood,0
+Standard deviation,Fuzzy clustering,0
+Confidence interval,Median,0
+Statistical population,Data mining,0
+Regression analysis,Machine learning,0
+Type I and type II errors,F1 score,0
+Statistical classification,Statistical model,0
+F-test,Stepwise regression,0
+Decision tree learning,Data mining,0
+Standard deviation,Principal component analysis,0
+Interquartile range,Standard deviation,0
+Statistical population,Precision and recall,0
+Conditional probability,Pruning (decision trees),0
+K-medoids,Outlier,0
+Precision and recall,Web search engine,0
+Interquartile range,Probability density function,0
+Data analysis,Fuzzy clustering,0
+Statistical hypothesis testing,Sensitivity and specificity,0
+Arithmetic mean,K-means clustering,0
+Conditional probability,Bayes' theorem,0
+Likelihood function,Naive Bayes classifier,0
+Expectation–maximization algorithm,Mixture model,0
+Boosting (machine learning),Bootstrap aggregating,0
+Joint probability distribution,Multiclass classification,0
+Expectation–maximization algorithm,Cluster analysis,0
+Bayes' theorem,Bayesian network,0
+Expectation–maximization algorithm,Fuzzy clustering,0
+Standard deviation,Naive Bayes classifier,0
+Cluster analysis,Confusion matrix,0
+Probability density function,Artificial neural network,0
+Probability density function,Pruning (decision trees),0
+Naive Bayes classifier,Random forest,0
+Conditional probability,Data mining,0
+Ensemble learning,Random forest,0
+Machine learning,Artificial neural network,0
+Arithmetic mean,Least squares,0
+Statistical dispersion,Interquartile range,0
+Sample (statistics),Statistical hypothesis testing,0
+Conditional independence,Naive Bayes classifier,0
+Mixture model,K-means clustering,0
+Bayes' theorem,Naive Bayes classifier,0
+Mixture model,Histogram,0
+Artificial neural network,Data processing,0
+Probability density function,AdaBoost,0
+Accuracy and precision,False positives and false negatives,0
+Correlation and dependence,Anomaly detection,0
+Boosting (machine learning),Gradient descent,0
+Null hypothesis,Student's t-test,0
+Prior probability,Data analysis,0
+DBSCAN,Anomaly detection,0
+Joint probability distribution,Artificial neural network,0
+Hill climbing,Gradient descent,0
+Cluster analysis,OPTICS algorithm,0
+Standard deviation,Correlation and dependence,0
+OPTICS algorithm,Outlier,0
+Pruning (decision trees),Cross-validation (statistics),0
+Decision tree,Genetic algorithm,0
+Stepwise regression,Data mining,0
+Regression analysis,Data mining,0
+Anomaly detection,Data mining,0
+K-means clustering,Spectral clustering,0
+Data analysis,Single-linkage clustering,0
+Probability density function,Median,0
+K-means clustering,Median,0
+Cluster analysis,Spectral clustering,0
+Ensemble learning,Boosting (machine learning),0
+Precision and recall,F1 score,0
+Standard deviation,K-medoids,0
+Decision tree learning,Artificial neural network,0
+Correlation and dependence,K-medoids,0

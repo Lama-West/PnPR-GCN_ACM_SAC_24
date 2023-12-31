@@ -1,0 +1,413 @@
+Concept,Prerequisite,label_prereq
+Matrix multiplication,Number,1
+Cartesian coordinate system,Line (geometry),1
+Domain of a function,Mathematics,1
+Monotonic function,Function (mathematics),1
+Asymptote,Geometry,1
+Synthetic division,Arithmetic,1
+Linear function,Calculus,1
+Linear inequality,Inequality (mathematics),1
+Line segment,Geometry,1
+Natural logarithm,Base (exponentiation),1
+Binary number,Number,1
+Minor (linear algebra),Square matrix,1
+Quadrant (plane geometry),Geometry,1
+Identity matrix,Square matrix,1
+Law of sines,Mathematics,1
+Scalar multiplication,Mathematics,1
+Rational root theorem,Integer,1
+Matrix multiplication,Matrix (mathematics),1
+Descartes' rule of signs,Polynomial,1
+Pythagorean trigonometric identity,Trigonometric functions,1
+Law of sines,Trigonometry,1
+Perpendicular,Angle,1
+Cross product,Arithmetic,1
+Vertical line test,Graph of a function,1
+Line–line intersection,Mathematics,1
+Homogeneous polynomial,Polynomial,1
+Cartesian coordinate system,Number,1
+Image (mathematics),Function (mathematics),1
+Basis (linear algebra),Number,1
+Multiplicative inverse,Mathematics,1
+System of linear equations,Mathematics,1
+Spherical law of cosines,Geometry,1
+Equation,Equality (mathematics),1
+Exponential growth,Number,1
+Binomial,Integer,1
+Analytic geometry,Equation,1
+Elementary matrix,Main diagonal,1
+Empty sum,Mathematics,1
+Sine wave,Line (geometry),1
+Line segment,Point (geometry),1
+Chord (geometry),Line (geometry),1
+Invertible matrix,Matrix (mathematics),1
+Sine,Mathematics,1
+Curve,Line (geometry),1
+Vertical line test,Line (geometry),1
+Analytic geometry,Distance,1
+Analytic geometry,Plane (geometry),1
+Plane curve,Geometry,1
+Base (exponentiation),Arithmetic,1
+Binomial,Arithmetic,1
+Solution of triangles,Angle,1
+Inverse trigonometric functions,Sine,1
+Quadratic formula,Polynomial,1
+Partial fraction decomposition,Multiplication,1
+Empty sum,Summation,1
+Degree (angle),Angle,1
+Arithmetic mean,Arithmetic,1
+Natural logarithm,Number,1
+Matrix multiplication,Arithmetic,1
+Slope,Geometry,1
+Exponential function,Number,1
+Edge,Point (geometry),1
+Quadratic function,Mathematics,1
+System of linear equations,Equation,1
+Limit of a function,Limit (mathematics),1
+Logarithm,Multiplication,1
+Chord (geometry),Mathematics,1
+Natural logarithm,Mathematics,1
+Work (physics),Force,1
+Common logarithm,Mathematics,1
+System of linear equations,Number,1
+Secant line,Geometry,1
+Limit of a function,Calculus,1
+Multiplication,Number,1
+Square root,Square (algebra),1
+Square (algebra),Mathematics,1
+Right triangle,Triangle,1
+Base (exponentiation),Exponentiation,1
+Binomial coefficient,Binomial,1
+Ellipse,Line (geometry),1
+Binomial coefficient,Addition,1
+Empty sum,Addition,1
+Equation solving,Mathematics,1
+Algebraic operation,Mathematics,1
+Factorization,Arithmetic,1
+Scalar multiplication,Vector space,1
+Fundamental theorem of algebra,Addition,1
+Matrix ring,Addition,1
+Inequality (mathematics),Number,1
+Natural logarithm,Exponentiation,1
+Complex conjugate,Complex number,1
+Binomial,Polynomial,1
+Degree (angle),Geometry,1
+Limit of a function,Mathematics,1
+Cone,Mathematics,1
+Plane curve,Line (geometry),1
+Piecewise,Function (mathematics),1
+Factorization,Number,1
+Simple harmonic motion,Force,1
+Focus (geometry),Mathematics,1
+Cone,Circle,1
+Radius,Geometry,1
+Dot product,Multiplication,1
+Triangle,Angle,1
+Linear equation,Equation,1
+Extended real number line,Number,1
+Scalar multiplication,Multiplication,1
+Parametric equation,Equality (mathematics),1
+Sum,Addition,1
+Binomial coefficient,Arithmetic,1
+Product topology,Mathematics,1
+Linear function,Function (mathematics),1
+Elementary matrix,Identity matrix,1
+Polar coordinate system,Number,1
+Right triangle,Mathematics,1
+Norm (mathematics),Vector (mathematics and physics),1
+Base (exponentiation),Mathematics,1
+Interval (mathematics),Mathematics,1
+Parametric equation,Number,1
+Line segment,Line (geometry),1
+Rational root theorem,Number,1
+Exponential function,Exponentiation,1
+Law of sines,Line (geometry),1
+Binomial,Multiplication,1
+Linear inequality,Function (mathematics),1
+Descartes' rule of signs,Addition,1
+Trigonometric functions,Geometry,1
+Product (mathematics),Number,1
+Limit (mathematics),Calculus,1
+Quadratic equation,Mathematics,1
+Geometric series,Series (mathematics),1
+Summation,Mathematics,1
+Matrix ring,Mathematics,1
+Law of sines,Geometry,1
+Pythagorean theorem,Mathematics,1
+Descartes' rule of signs,Multiplication,1
+Scalar multiplication,Scalar (mathematics),1
+Degree of a polynomial,Mathematics,1
+Complex plane,Plane (geometry),1
+Trigonometric substitution,Geometry,1
+Solution of triangles,Polygon,1
+Square root,Exponentiation,0
+Base (exponentiation),Exponential function,0
+Number,Empty sum,0
+Constant function,Linear function,0
+Focus (geometry),Circle,0
+Division (mathematics),Partial fraction decomposition,0
+Logarithm,Slope,0
+Scientific notation,Real number,0
+Mathematics,Polygon,0
+Polygon,Right triangle,0
+Function (mathematics),Image (mathematics),0
+Vector (mathematics and physics),Euclidean vector,0
+Complex number,Zero of a function,0
+Vector space,Scalar (mathematics),0
+Number,Degree of a polynomial,0
+Unit circle,Integer,0
+Geometry,Cylinder (geometry),0
+Number,Scalar multiplication,0
+Arithmetic,Division (mathematics),0
+Multiplication,Function (mathematics),0
+Circle,Analytic geometry,0
+Number,Integer,0
+Mathematics,Empty sum,0
+Circle,Quadratic equation,0
+Logarithm,E (mathematical constant),0
+Amplitude,Sine wave,0
+Square root,Algebraic expression,0
+Mathematics,Angle,0
+Addition,Sum,0
+Binomial,Binomial coefficient,0
+Quadratic function,Graph of a function,0
+Integer,Binomial,0
+Multiplication,Synthetic division,0
+Mathematics,Product (mathematics),0
+Polygon,Solution of triangles,0
+Complex number,Multiplicative inverse,0
+Geometry,Radius,0
+Mathematics,Algebraic expression,0
+Arithmetic,Formula,0
+Line segment,Right triangle,0
+Mathematics,Base (exponentiation),0
+Number,Extended real number line,0
+Number,Factorization,0
+Mathematics,Circle,0
+Addition,Homogeneous polynomial,0
+Commutative property,Function (mathematics),0
+Line segment,Cylinder (geometry),0
+Secant line,Calculus,0
+Scalar (mathematics),Real number,0
+Mathematics,Formula,0
+Geometry,Trigonometric substitution,0
+Minute and second of arc,Angle,0
+Vector (mathematics and physics),Calculus,0
+Function (mathematics),Inverse function,0
+Number,Coordinate system,0
+Number,System of linear equations,0
+Mathematics,Unit circle,0
+Geometry,Line segment,0
+Semi-major axis,Work (physics),0
+Exponentiation,Degree of a polynomial,0
+Complex number,Identity (mathematics),0
+Mathematics,Identity (mathematics),0
+Geometry,Circular motion,0
+Transformation (function),Coordinate system,0
+Prime number,Polynomial long division,0
+Complex number,Subtraction,0
+Negative number,Subtraction,0
+Perpendicular,Analytic geometry,0
+Parity (mathematics),Square (algebra),0
+Symmetry,Geometry,1
+Binary logarithm,Common logarithm,0
+Base (exponentiation),Common logarithm,0
+Function (mathematics),Limit of a function,0
+Linear equation,Complex number,0
+Integer,Rational number,0
+Equation solving,Empty set,0
+Point (geometry),Chord (geometry),0
+Prime number,Binary logarithm,0
+Law of sines,Circle,0
+Injective function,Inverse function,0
+Function (mathematics),Inverse trigonometric functions,0
+Pythagorean theorem,Inverse trigonometric functions,0
+Multiplication,Polynomial,0
+Linear equation,Vertical line test,0
+Geometry,Origin (mathematics),0
+Polynomial,Binomial,0
+Mathematics,Calculus,0
+Plane (geometry),Complex plane,0
+Set (mathematics),Set-builder notation,0
+Force,Simple harmonic motion,0
+Curve,Eccentricity (mathematics),0
+Number,Basis (linear algebra),0
+Function (mathematics),Dependent and independent variables,0
+Exponentiation,Function (mathematics),0
+Open set,Interval (mathematics),0
+Mathematics,Homogeneous polynomial,0
+Set (mathematics),Distance,0
+Number,Binomial theorem,0
+Polynomial long division,Factorization,0
+Mathematics,Descartes' rule of signs,0
+Polynomial,Degree of a polynomial,0
+Line (geometry),Vertical line test,0
+Polynomial,Partial fraction decomposition,0
+Mathematics,Trigonometric functions,0
+Equation,Real number,0
+Exponential function,Identity (mathematics),0
+Geometry,Closed set,0
+Prime number,Floor and ceiling functions,0
+Sign (mathematics),Real number,0
+Number,Quadratic equation,0
+Exponentiation,Scientific notation,0
+Common logarithm,Scientific notation,0
+Mathematics,Monotonic function,0
+Asymptote,Vertical line test,0
+Unit circle,Sine,0
+Mathematics,Scalar multiplication,0
+Spherical law of cosines,Polygon,0
+Transformation (function),Set (mathematics),0
+Geometric series,Pythagorean theorem,0
+Number,Partial fraction decomposition,0
+Integer,Equation solving,0
+Mathematics,Origin (mathematics),0
+Curve,Chord (geometry),0
+Conic section,Eccentricity (mathematics),0
+Polynomial,Complex number,0
+Number,Imaginary number,0
+Addition,Parity (mathematics),0
+Matrix (mathematics),Invertible matrix,0
+Function (mathematics),Empty set,0
+Logarithm,Exponential growth,0
+Arithmetic,Degree of a polynomial,0
+Real number,Mathematical proof,0
+Mathematics,Linear function,0
+Point (geometry),Law of sines,0
+Multiplication,Natural number,0
+Subtraction,Integer,0
+Union (set theory),Associative property,0
+Number,Inequality (mathematics),0
+Mathematics,Rational root theorem,0
+Zero of a function,Geometry,0
+Pythagorean trigonometric identity,Sine,0
+Constant function,Polynomial,0
+Sine,Multiplicative inverse,0
+Equation,Fundamental theorem of algebra,0
+Rational number,Multiplicative inverse,0
+Base (exponentiation),Calculus,0
+Mathematics,Dependent and independent variables,0
+Linear function,Slope,0
+Linear function,Real number,0
+Real line,Graph of a function,0
+Floor and ceiling functions,Function (mathematics),0
+Vector field,Mathematics,0
+Real number,Fundamental theorem of algebra,0
+Minor (linear algebra),Identity matrix,0
+Exponentiation,Negative number,0
+Vector (mathematics and physics),Scalar multiplication,0
+Multiplication,Complex number,0
+Linear function,Perpendicular,0
+Multiplication,Inequality (mathematics),0
+Amplitude,Periodic function,0
+Linear function,Degree of a polynomial,0
+Arithmetic,Binomial coefficient,0
+Mathematics,Image (mathematics),0
+Pythagorean theorem,Function (mathematics),0
+Complex number,Sine,0
+Unit circle,Real number,0
+Mathematics,Domain of a function,0
+Line (geometry),Linear equation,0
+Real number,Common logarithm,0
+Empty set,Closed set,0
+Square matrix,Minor (linear algebra),0
+Line (geometry),Edge,0
+Arithmetic,Division by zero,0
+Number,Exponential function,0
+Interval (mathematics),Integer,0
+Multiplication,Integer,0
+Monomial,Binomial,0
+Number,Zero (complex analysis),0
+Associative property,Division (mathematics),0
+Logarithm,Multiplicative inverse,0
+Angle,Triangle,0
+Function (mathematics),Quadratic function,0
+Number,Matrix ring,0
+Mathematics,Cylinder (geometry),0
+Semi-major axis,Semi-minor axis,0
+Real line,Distance,0
+Geometry,Secant line,0
+Mathematics,Parallel (geometry),0
+Circular sector,Area,0
+Parity (mathematics),Number,0
+Mathematics,Circular motion,0
+Addition,Quadratic formula,0
+Calculus,Limit (mathematics),0
+Mathematics,Right triangle,0
+Number,Square (algebra),0
+Multiplication,Quadratic formula,0
+Integer,Real number,0
+Matrix (mathematics),Identity matrix,0
+Exponential function,Complex number,0
+Equation,Change of variables,0
+Addition,Distributive property,0
+Commutative property,Division (mathematics),0
+Degree (angle),Circular sector,0
+Mathematics,Zero of a function,0
+Curve,Asymptote,0
+Real number,Vector (mathematics and physics),0
+Function composition,Real number,0
+Multiplication,Exponential growth,0
+Open set,Function (mathematics),0
+Union (set theory),Open set,0
+Number,Binomial coefficient,0
+Angle,Degree (angle),0
+Even and odd functions,Division (mathematics),0
+Number,E (mathematical constant),0
+Circle,Unit circle,0
+Arithmetic,Addition,0
+Square matrix,Imaginary number,0
+Complex number,Nth root,0
+Rational function,Polynomial long division,0
+Domain of a function,Zero of a function,0
+Rational number,Binary logarithm,0
+Geometry,Vector field,0
+Addition,Fundamental theorem of algebra,0
+Equality (mathematics),Quadratic equation,0
+Square root,Degree of a polynomial,0
+Inverse trigonometric functions,Multiplicative inverse,0
+Complex number,Domain of a function,0
+Coordinate system,Change of variables,0
+Number,Rotation of axes,0
+Sign (mathematics),Algebra,0
+Function (mathematics),Multiplicative inverse,0
+Symmetry,Mathematics,0
+Multiplication,Partial fraction decomposition,0
+Complex number,Interval (mathematics),0
+Number,Descartes' rule of signs,0
+Negative number,Real number,0
+Line (geometry),Vector field,0
+Mathematics,Extended real number line,0
+Polynomial,Quadratic function,0
+Mathematics,Mathematical induction,0
+Line (geometry),Curve,0
+Complex number,Pythagorean theorem,0
+Polynomial,Algebraic expression,0
+Natural number,Geometry,0
+Mathematics,Solution of triangles,0
+Mathematics,Trigonometry,0
+Coordinate system,Circle,0
+Quadratic equation,Degree of a polynomial,0
+Arithmetic,Binomial,0
+Number,Complex number,0
+Function (mathematics),Linear function,0
+Mathematics,Expression (mathematics),0
+Mathematics,Fundamental theorem of algebra,0
+Mathematics,Limit of a function,0
+Line (geometry),Circular motion,0
+Line segment,Law of sines,0
+Quadratic equation,Sine,0
+Exponential function,Natural logarithm,0
+Mathematics,Cone,0
+Function composition,Transformation (function),0
+Complex number,Negative number,0
+Integer,Descartes' rule of signs,0
+Line (geometry),Focus (geometry),0
+Curve,Plane curve,0
+Arithmetic,Summation,0
+Length,Geometry,0
+Number,Logarithm,0
+Rationalisation (mathematics),Square root,0
+Integer,Distributive property,0
+Polynomial,Function composition,0
+Quadratic equation,Rational number,0
