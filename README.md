@@ -95,8 +95,9 @@ Where for any given concept C, the term "related concepts" refers to either the 
 All of these metrics return values in the interval [0,1]. The higher the value of the metric, the higher the probability of concepts being 'related' when their embeddings have a high cosine similarity (see the definition of "related concepts" given above). 
 
 ## Acknowledgements
-
 This work would not have been possible without:
+
+- An INSIGHT grant from the Social Sciences and Humanities Research Council of Canada ([SSHRC](https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx))
 
 - [NetworkX](https://networkx.org/)
 
