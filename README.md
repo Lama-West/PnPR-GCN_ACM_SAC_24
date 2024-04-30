@@ -87,14 +87,27 @@ We use the following methodology to represent concepts, with the name of the cor
 Additionally, we propose a method to evaluate embeddings for our CPL task, drawing inspiration from recommender systems. Our evaluation process involves the following steps: First, we compute the cosine similarity matrix for all embeddings. Next, we rank the results for each concept. Finally, we compute the evaluation metrics based on the definitions provided below:
 
 <p align="center">
-  <img src="Generated_Images/Metrics_Equation.png", style="zoom:100%" />
+  <img src="Generated_Images/Metrics_Definitions.png", style="zoom:100%" />
 </p>
+
 
 Where for any given concept C, the term "related concepts" refers to either the prerequisites of the given concept C (ancestors) or the concepts for which C is a prerequisite (descendants). The query set, denoted as Q, contains all the related concepts to concept C. 
 
 All of these metrics return values in the interval [0,1]. The higher the value of the metric, the higher the probability of concepts being 'related' when their embeddings have a high cosine similarity (see the definition of "related concepts" given above). 
 
+## Hyperparameters
+
+In our paper, the PnPR-GCN architectures has two hyperparameters for the loss function $\lambda$ and $\mu$, and architecture hyperparameters. We use grid search to find the optimal hyper parameters for our PnPR-GCN architecture in the in-domain setting and report them in the table below:
+
+| Split Type   | Average Distance Between Nodes | Number of GCN Embedding Layers | Size of GCN embeddings | MLP Depth | MLP Dropout Rate |
+| ------------ | ------------------------------ | ------------------------------ | ---------------------- | --------- | ---------------- |
+| Random Split | 1.121                          | 1                              | 675                    | 2         | 0.8              |
+| Graph Split  | 1.0                            | 1                              | 764                    | 2         | 0.7              |
+
+We also find the optimal value for $\lambda$ and $\mu$ to be equal to $1$.
+
 ## Acknowledgements
+
 This work would not have been possible without:
 
 - An INSIGHT grant from the Social Sciences and Humanities Research Council of Canada ([SSHRC](https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx))
