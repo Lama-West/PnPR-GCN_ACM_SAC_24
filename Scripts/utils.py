@@ -31,6 +31,7 @@ def MergingPreqsAndPairs(csv_preqs, csv_pairs):
 
     ## Concatenates 0s and 1s relations
     ds = pd.concat([csv_preqs, csv_pairs[~csv_pairs.relations_1.isin(csv_preqs.relations_1)]]).drop(columns='relations_1')
+    ds.reset_index(inplace=True)
 
     return ds
 
@@ -72,15 +73,6 @@ def AllLinkedPrerequisitePairs(DG):
     This function extends LinkedConceptPairs. First, it computes all the roots of the connected components of the directed graph `DG`.
     Then, it performs LinkedConceptPairs on all of the roots.
     '''
-    # Roots have an in degree of 0 in directed graphs
-    # roots = [n for n,d in DG.in_degree() if d==0] 
-    # list_of_prerequisite_pairs = []
-
-    # for root in roots:
-    #     ## Generating all possible prerequisite relations:    
-    #     list_of_prerequisite_pairs += LinkedPrerequisitePairsFromRoot(root, DG)
-        
-    # return list_of_prerequisite_pairs
     return list(nx.transitive_closure_dag(DG).edges)
 
 def PercentageOfInferablePrerequisites(train_G, test_df):
@@ -100,7 +92,7 @@ def PercentageOfInferablePrerequisites(train_G, test_df):
 ## --------------------- END --------------------- ##
 
 ## Function that computes the percentage of pairs labeled 0 in the dataframe df
-ZeroPercentageInDF = lambda df: df.label_prereq.value_counts()[0]/df.shape[0]*100
+ZeroPercentageInDF = lambda df: (df['label_prereq'] == 0).sum()/df.shape[0]*100
 
 ## Function that computes the number of unique concepts in the dataframe df
 NumberOfConceptsInDF = lambda df: len(pd.concat([df.Concept, df.Prerequisite]).unique())

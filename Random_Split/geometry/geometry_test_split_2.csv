@@ -1,337 +1,337 @@
-Concept,Prerequisite,label_prereq
-Tangent,Angle,1
-Inverse trigonometric functions,Angle,1
-Line segment,Geometry,1
-Rhombus,Quadrilateral,1
-Dodecagon,Edge (geometry),1
-Tangent,Geometry,1
-Cartesian coordinate system,Perpendicular,1
-Congruence (geometry),Angle,1
-Heptagon,Vertex (geometry),1
-Pyramid (geometry),Line segment,1
-Prism (geometry),Polygon,1
-Collinearity,Point (geometry),1
-Inverse trigonometric functions,Trigonometric functions,1
-Altitude (triangle),Geometry,1
-Equilateral triangle,Angle,1
-Rigid transformation,Geometry,1
-Reflection (mathematics),Line (geometry),1
-Equilateral triangle,Geometry,1
-Acute and obtuse triangles,Vertex (geometry),1
-Sine,Polygon,1
-Square,Vertex (geometry),1
-Angle bisector theorem,Polygon,1
-Decagon,Edge (geometry),1
-Arc length,Arc (geometry),1
-Secant line,Point (geometry),1
-Rectangle,Vertex (geometry),1
-Altitude (triangle),Polygon,1
-Angle bisector theorem,Point (geometry),1
-Polygon,Geometry,1
-Circumference,Circle,1
-Star polygon,Vertex (geometry),1
-Vertex (geometry),Geometry,1
-Congruence (geometry),Line (geometry),1
-Diagonal,Vertex (geometry),1
-Pentagon,Point (geometry),1
-Rotation (mathematics),Symmetry,1
-Exterior angle theorem,Point (geometry),1
-Rectangle,Quadrilateral,1
-Slope,Geometry,1
-Hexagon,Line segment,1
-Congruence (geometry),Point (geometry),1
-Rotation (mathematics),Line (geometry),1
-Rhombus,Geometry,1
-Trapezoid,Line (geometry),1
-Right triangle,Triangle,1
-Octagon,Angle,1
-Parallelogram,Line segment,1
-Heptagon,Polygon,1
-Isosceles triangle,Angle,1
-Trapezoid,Point (geometry),1
-Special right triangles,Edge (geometry),1
-Right triangle,Line (geometry),1
-Rotational symmetry,Geometry,1
-Triangle,Vertex (geometry),1
-Pythagorean theorem,Triangle,1
-Rhombus,Polygon,1
-Triangle,Point (geometry),1
-Triangle inequality,Line (geometry),1
-Altitude (triangle),Line segment,1
-Skew lines,Line (geometry),1
-Acute and obtuse triangles,Edge (geometry),1
-Hendecagon,Polygon,1
-Special right triangles,Polygon,1
-Pythagorean theorem,Polygon,1
-Bisection,Angle,1
-Altitude (triangle),Angle,1
-Skew lines,Geometry,1
-Convex polygon,Vertex (geometry),1
-Tessellation,Geometry,1
-Decagon,Line segment,1
-Heptagon,Line (geometry),1
-Pythagorean theorem,Point (geometry),1
-Radius,Line (geometry),1
-Kite (geometry),Line segment,1
-Tangent,Triangle,1
-Two-dimensional space,Geometry,1
-Square,Point (geometry),1
-Kite (geometry),Quadrilateral,1
-Exterior angle theorem,Polygon,1
-Sine,Line segment,1
-Nonagon,Geometry,1
-Slope,Point (geometry),1
-Triangle inequality,Angle,1
-Angle bisector theorem,Bisection,1
-Special right triangles,Right triangle,1
-Parallelogram,Line (geometry),1
-Altitude (triangle),Edge (geometry),1
-Pythagorean theorem,Right angle,1
-Inverse trigonometric functions,Sine,1
-Angle bisector theorem,Line (geometry),1
-Pythagorean triple,Geometry,1
-Convex polygon,Line (geometry),1
-Hexagon,Line (geometry),1
-Triangle inequality,Geometry,1
-Triangle inequality,Point (geometry),1
-Internal and external angle,Angle,1
-Dodecagon,Point (geometry),1
-Angle bisector theorem,Perpendicular,1
-Angle,Pythagorean theorem,0
-Edge (geometry),Acute and obtuse triangles,0
-Angle,Two-dimensional space,0
-Line segment,Bisection,0
-Similarity (geometry),Sphere,0
-Quadrilateral,Internal and external angle,0
-Circle,Vertex (geometry),0
-Symmetry,Parallelogram,0
-Cylinder (geometry),Perpendicular,0
-Line (geometry),Pyramid (geometry),0
-Circumference,Arc (geometry),0
-Line segment,Dodecagon,0
-Vertex (geometry),Nonagon,0
-Point (geometry),Secant line,0
-Chord (geometry),Pythagorean theorem,0
-Parallelogram,Convex polygon,0
-Geometry,Star polygon,0
-Polygon,Right triangle,0
-Circle,Sine,0
-Chord (geometry),Sine,0
-Heptagon,Radius,0
-Collinearity,Cone,0
-Circle,Two-dimensional space,0
-Polygon,Quadrilateral,0
-Perpendicular,Trapezoid,0
-Circumference,Polygon,0
-Cylinder (geometry),Tangent,0
-Polygon,Hendecagon,0
-Bisection,Congruence (geometry),0
-Geometry,Square,0
-Acute and obtuse triangles,Right triangle,0
-Cylinder (geometry),Radius,0
-Cylinder (geometry),Polyhedron,0
-Line segment,Arc (geometry),0
-Point (geometry),Arc length,0
-Perpendicular,Vertex (geometry),0
-Circumference,Distance,0
-Right angle,Rectangle,0
-Similarity (geometry),Circle,0
-Line segment,Rhombus,0
-Point (geometry),Tangent,0
-Triangle,Equilateral triangle,0
-Angle,Square,0
-Triangle,Pythagorean theorem,0
-Edge (geometry),Pythagorean triple,0
-Line segment,Inverse trigonometric functions,0
-Rotation (mathematics),Space (mathematics),0
-Rotation (mathematics),Rotational symmetry,1
-Angle,Acute and obtuse triangles,0
-Diameter,Distance,0
-Dodecagon,Hexagon,0
-Reflection symmetry,Perpendicular,0
-Polygon,Pentagon,0
-Line (geometry),Radius,0
-Line segment,Octagon,0
-Triangle inequality,Parallelogram,0
-Plane (geometry),Coordinate system,0
-Edge (geometry),Inverse trigonometric functions,0
-Special right triangles,Pythagorean theorem,0
-Polygon,Pyramid (geometry),0
-Triangle inequality,Pythagorean triple,0
-Point (geometry),Coordinate system,0
-Edge (geometry),Diagonal,0
-Triangle inequality,Right triangle,0
-Pyramid (geometry),Scaling (geometry),0
-Arc length,Slope,0
-Distance,Cartesian coordinate system,0
-Circle,Radius,0
-Square,Reflection symmetry,0
-Polyhedron,Prism (geometry),0
-Geometry,Rigid transformation,0
-Polyhedron,Coordinate system,0
-Geometry,Two-dimensional space,0
-Vertex (geometry),Exterior angle theorem,0
-Collinearity,Rectangle,0
-Polyhedron,Cross section (geometry),0
-Angle,Equilateral triangle,0
-Diameter,Perpendicular,0
-Symmetry,Trapezoid,0
-Geometry,Reflection (mathematics),0
-Angle,Special right triangles,0
-Pythagorean theorem,Perpendicular,0
-Circle,Distance,0
-Collinearity,Sphere,0
-Pentagon,Decagon,0
-Symmetry,Prism (geometry),0
-Vertex (geometry),Special right triangles,0
-Circle,Chord (geometry),0
-Rotational symmetry,Scale factor,0
-Congruence (geometry),Reflection (mathematics),0
-Trigonometric functions,Circle,0
-Rhombus,Congruence (geometry),0
-Congruence (geometry),Tessellation,0
-Rigid transformation,Distance,0
-Cylinder (geometry),Angle,0
-Similarity (geometry),Isosceles triangle,0
-Pythagorean theorem,Two-dimensional space,0
-Prism (geometry),Congruence (geometry),0
-Geometry,Rotational symmetry,0
-Polygon,Square,0
-Perpendicular,Slope,0
-Line (geometry),Trigonometric functions,0
-Quadrilateral,Midpoint,0
-Geometry,Edge (geometry),0
-Geometry,Triangle,0
-Vertex (geometry),Sine,0
-Angle,Rotation (mathematics),0
-Face (geometry),Rhombus,0
-Polygon,Convex polygon,0
-Line segment,Radius,0
-Trapezoid,Parallelogram,0
-Angle,Convex polygon,0
-Geometry,Circle,0
-Similarity (geometry),Translation (geometry),0
-Point (geometry),Inverse trigonometric functions,0
-Parallel (geometry),Rhombus,0
-Edge (geometry),Rhombus,0
-Rhombus,Diagonal,0
-Plane (geometry),Two-dimensional space,0
-Symmetry,Perpendicular,0
-Angle,Triangle inequality,0
-Vertex (geometry),Right triangle,0
-Angle,Cone,0
-Reflection (mathematics),Cartesian coordinate system,0
-Tangent,Cross section (geometry),0
-Right angle,Pythagorean triple,0
-Perpendicular,Skew lines,0
-Square,Kite (geometry),0
-Diameter,Arc length,0
-Vertex (geometry),Quadrilateral,0
-Right angle,Cartesian coordinate system,0
-Polyhedron,Pyramid (geometry),0
-Transversal (geometry),Perpendicular,0
-Congruence (geometry),Space (mathematics),0
-Perpendicular,Line segment,0
-Parallelogram,Tangent,0
-Tangent,Hexagon,0
-Circle,Tangent,0
-Circle,Cylinder (geometry),0
-Point (geometry),Rotation (mathematics),0
-Geometry,Angle,0
-Slope,Secant line,0
-Vertex (geometry),Face (geometry),0
-Right triangle,Arc length,0
-Trigonometric functions,Cartesian coordinate system,0
-Altitude (triangle),Isosceles triangle,0
-Rotational symmetry,Tessellation,0
-Rectangle,Rotational symmetry,0
-Polyhedron,Cartesian coordinate system,0
-Geometry,Sphere,0
-Point (geometry),Pentagon,0
-Right angle,Special right triangles,0
-Geometry,Diagonal,0
-Parallelogram,Slope,0
-Angle,Triangle,0
-Equilateral triangle,Altitude (triangle),0
-Midpoint,Diagonal,0
-Slope,Distance,0
-Angle,Rectangle,0
-Line segment,Angle bisector theorem,0
-Angle,Skew lines,0
-Convex polygon,Rhombus,0
-Angle,Heptagon,0
-Line (geometry),Reflection (mathematics),0
-Similarity (geometry),Equilateral triangle,0
-Polygon,Dodecagon,0
-Rhombus,Midpoint,0
-Polygon,Internal and external angle,0
-Angle,Exterior angle theorem,0
-Symmetry,Scaling (geometry),0
-Rotation (mathematics),Plane (geometry),0
-Point (geometry),Altitude (triangle),0
-Point (geometry),Plane (geometry),0
-Star polygon,Tessellation,0
-Line segment,Special right triangles,0
-Circle,Perpendicular,0
-Triangle,Diameter,0
-Midpoint,Bisection,0
-Triangle,Angle bisector theorem,0
-Point (geometry),Skew lines,0
-Prism (geometry),Rectangle,0
-Coordinate system,Sine,0
-Line (geometry),Polygon,0
-Plane (geometry),Line (geometry),0
-Plane (geometry),Cross section (geometry),0
-Triangle,Cartesian coordinate system,0
-Line (geometry),Altitude (triangle),0
-Parallelogram,Diagonal,0
-Pentagon,Hexagon,0
-Midpoint,Triangle,0
-Line (geometry),Nonagon,0
-Similarity (geometry),Trapezoid,0
-Line segment,Nonagon,0
-Geometry,Diameter,0
-Quadrilateral,Diagonal,0
-Cone,Polygon,0
-Geometry,Vertex (geometry),0
-Geometry,Transversal (geometry),0
-Geometry,Arc length,0
-Rectangle,Midpoint,0
-Polygon,Heptagon,0
-Prism (geometry),Cylinder (geometry),0
-Scaling (geometry),Similarity (geometry),0
-Quadrilateral,Bisection,0
-Circle,Arc length,0
-Line (geometry),Transversal (geometry),0
-Midpoint,Vertex (geometry),0
-Geometry,Collinearity,0
-Midpoint,Circle,0
-Rotation (mathematics),Translation (geometry),0
-Angle,Kite (geometry),0
-Arc length,Angle,0
-Rectangle,Convex polygon,0
-Collinearity,Circle,0
-Geometry,Polyhedron,0
-Geometry,Chord (geometry),0
-Geometry,Convex polygon,0
-Right triangle,Pythagorean theorem,0
-Symmetry,Bisection,0
-Slope,Angle,0
-Midpoint,Perpendicular,0
-Geometry,Exterior angle theorem,0
-Diagonal,Rhombus,0
-Point (geometry),Prism (geometry),0
-Arc length,Polygon,0
-Line segment,Acute and obtuse triangles,0
-Radius,Perpendicular,0
-Polyhedron,Star polygon,0
-Line segment,Midpoint,0
-Two-dimensional space,Equilateral triangle,0
-Right triangle,Special right triangles,0
-Polyhedron,Sphere,0
-Angle,Parallelogram,0
-Rotational symmetry,Distance,0
-Trigonometric functions,Secant line,0
-Vertex (geometry),Polyhedron,0
-Triangle,Parallelogram,0
-Angle,Rotational symmetry,0
+index,Concept,Prerequisite,label_prereq
+10,Tangent,Angle,1
+18,Inverse trigonometric functions,Angle,1
+31,Line segment,Geometry,1
+41,Rhombus,Quadrilateral,1
+48,Dodecagon,Edge (geometry),1
+54,Tangent,Geometry,1
+58,Cartesian coordinate system,Perpendicular,1
+63,Congruence (geometry),Angle,1
+81,Heptagon,Vertex (geometry),1
+83,Pyramid (geometry),Line segment,1
+86,Prism (geometry),Polygon,1
+88,Collinearity,Point (geometry),1
+96,Inverse trigonometric functions,Trigonometric functions,1
+111,Altitude (triangle),Geometry,1
+113,Equilateral triangle,Angle,1
+126,Rigid transformation,Geometry,1
+129,Reflection (mathematics),Line (geometry),1
+131,Equilateral triangle,Geometry,1
+140,Acute and obtuse triangles,Vertex (geometry),1
+142,Sine,Polygon,1
+147,Square,Vertex (geometry),1
+148,Angle bisector theorem,Polygon,1
+155,Decagon,Edge (geometry),1
+156,Arc length,Arc (geometry),1
+158,Secant line,Point (geometry),1
+164,Rectangle,Vertex (geometry),1
+174,Altitude (triangle),Polygon,1
+177,Angle bisector theorem,Point (geometry),1
+178,Polygon,Geometry,1
+179,Circumference,Circle,1
+181,Star polygon,Vertex (geometry),1
+192,Vertex (geometry),Geometry,1
+195,Congruence (geometry),Line (geometry),1
+196,Diagonal,Vertex (geometry),1
+208,Pentagon,Point (geometry),1
+209,Rotation (mathematics),Symmetry,1
+214,Exterior angle theorem,Point (geometry),1
+218,Rectangle,Quadrilateral,1
+221,Slope,Geometry,1
+233,Hexagon,Line segment,1
+236,Congruence (geometry),Point (geometry),1
+243,Rotation (mathematics),Line (geometry),1
+254,Rhombus,Geometry,1
+265,Trapezoid,Line (geometry),1
+266,Right triangle,Triangle,1
+277,Octagon,Angle,1
+282,Parallelogram,Line segment,1
+285,Heptagon,Polygon,1
+286,Isosceles triangle,Angle,1
+287,Trapezoid,Point (geometry),1
+290,Special right triangles,Edge (geometry),1
+291,Right triangle,Line (geometry),1
+292,Rotational symmetry,Geometry,1
+294,Triangle,Vertex (geometry),1
+296,Pythagorean theorem,Triangle,1
+306,Rhombus,Polygon,1
+308,Triangle,Point (geometry),1
+309,Triangle inequality,Line (geometry),1
+310,Altitude (triangle),Line segment,1
+312,Skew lines,Line (geometry),1
+322,Acute and obtuse triangles,Edge (geometry),1
+323,Hendecagon,Polygon,1
+326,Special right triangles,Polygon,1
+327,Pythagorean theorem,Polygon,1
+341,Bisection,Angle,1
+346,Altitude (triangle),Angle,1
+348,Skew lines,Geometry,1
+354,Convex polygon,Vertex (geometry),1
+355,Tessellation,Geometry,1
+358,Decagon,Line segment,1
+360,Heptagon,Line (geometry),1
+361,Pythagorean theorem,Point (geometry),1
+363,Radius,Line (geometry),1
+365,Kite (geometry),Line segment,1
+370,Tangent,Triangle,1
+377,Two-dimensional space,Geometry,1
+380,Square,Point (geometry),1
+383,Kite (geometry),Quadrilateral,1
+390,Exterior angle theorem,Polygon,1
+394,Sine,Line segment,1
+410,Nonagon,Geometry,1
+419,Slope,Point (geometry),1
+423,Triangle inequality,Angle,1
+425,Angle bisector theorem,Bisection,1
+427,Special right triangles,Right triangle,1
+428,Parallelogram,Line (geometry),1
+430,Altitude (triangle),Edge (geometry),1
+435,Pythagorean theorem,Right angle,1
+447,Inverse trigonometric functions,Sine,1
+451,Angle bisector theorem,Line (geometry),1
+461,Pythagorean triple,Geometry,1
+468,Convex polygon,Line (geometry),1
+471,Hexagon,Line (geometry),1
+477,Triangle inequality,Geometry,1
+479,Triangle inequality,Point (geometry),1
+485,Internal and external angle,Angle,1
+500,Dodecagon,Point (geometry),1
+516,Angle bisector theorem,Perpendicular,1
+2,Angle,Pythagorean theorem,0
+3,Edge (geometry),Acute and obtuse triangles,0
+6,Angle,Two-dimensional space,0
+11,Line segment,Bisection,0
+23,Similarity (geometry),Sphere,0
+25,Quadrilateral,Internal and external angle,0
+35,Circle,Vertex (geometry),0
+40,Symmetry,Parallelogram,0
+41,Cylinder (geometry),Perpendicular,0
+48,Line (geometry),Pyramid (geometry),0
+55,Circumference,Arc (geometry),0
+61,Line segment,Dodecagon,0
+71,Vertex (geometry),Nonagon,0
+74,Point (geometry),Secant line,0
+81,Chord (geometry),Pythagorean theorem,0
+86,Parallelogram,Convex polygon,0
+91,Geometry,Star polygon,0
+96,Polygon,Right triangle,0
+97,Circle,Sine,0
+103,Chord (geometry),Sine,0
+106,Heptagon,Radius,0
+107,Collinearity,Cone,0
+110,Circle,Two-dimensional space,0
+116,Polygon,Quadrilateral,0
+123,Perpendicular,Trapezoid,0
+131,Circumference,Polygon,0
+133,Cylinder (geometry),Tangent,0
+135,Polygon,Hendecagon,0
+137,Bisection,Congruence (geometry),0
+138,Geometry,Square,0
+152,Acute and obtuse triangles,Right triangle,0
+153,Cylinder (geometry),Radius,0
+161,Cylinder (geometry),Polyhedron,0
+164,Line segment,Arc (geometry),0
+185,Point (geometry),Arc length,0
+189,Perpendicular,Vertex (geometry),0
+211,Circumference,Distance,0
+225,Right angle,Rectangle,0
+227,Similarity (geometry),Circle,0
+244,Line segment,Rhombus,0
+245,Point (geometry),Tangent,0
+263,Triangle,Equilateral triangle,0
+264,Angle,Square,0
+268,Triangle,Pythagorean theorem,0
+269,Edge (geometry),Pythagorean triple,0
+270,Line segment,Inverse trigonometric functions,0
+280,Rotation (mathematics),Space (mathematics),0
+281,Rotation (mathematics),Rotational symmetry,0
+282,Angle,Acute and obtuse triangles,0
+283,Diameter,Distance,0
+289,Dodecagon,Hexagon,0
+304,Reflection symmetry,Perpendicular,0
+312,Polygon,Pentagon,0
+334,Line (geometry),Radius,0
+337,Line segment,Octagon,0
+347,Triangle inequality,Parallelogram,0
+349,Plane (geometry),Coordinate system,0
+369,Edge (geometry),Inverse trigonometric functions,0
+376,Special right triangles,Pythagorean theorem,0
+385,Polygon,Pyramid (geometry),0
+409,Triangle inequality,Pythagorean triple,0
+415,Point (geometry),Coordinate system,0
+417,Edge (geometry),Diagonal,0
+421,Triangle inequality,Right triangle,0
+446,Pyramid (geometry),Scaling (geometry),0
+461,Arc length,Slope,0
+464,Distance,Cartesian coordinate system,0
+466,Circle,Radius,0
+472,Square,Reflection symmetry,0
+494,Polyhedron,Prism (geometry),0
+502,Geometry,Rigid transformation,0
+503,Polyhedron,Coordinate system,0
+515,Geometry,Two-dimensional space,0
+532,Vertex (geometry),Exterior angle theorem,0
+538,Collinearity,Rectangle,0
+539,Polyhedron,Cross section (geometry),0
+544,Angle,Equilateral triangle,0
+549,Diameter,Perpendicular,0
+551,Symmetry,Trapezoid,0
+552,Geometry,Reflection (mathematics),0
+558,Angle,Special right triangles,0
+573,Pythagorean theorem,Perpendicular,0
+574,Circle,Distance,0
+586,Collinearity,Sphere,0
+608,Pentagon,Decagon,0
+617,Symmetry,Prism (geometry),0
+642,Vertex (geometry),Special right triangles,0
+652,Circle,Chord (geometry),0
+659,Rotational symmetry,Scale factor,0
+665,Congruence (geometry),Reflection (mathematics),0
+670,Trigonometric functions,Circle,0
+671,Rhombus,Congruence (geometry),0
+673,Congruence (geometry),Tessellation,0
+680,Rigid transformation,Distance,0
+687,Cylinder (geometry),Angle,0
+699,Similarity (geometry),Isosceles triangle,0
+704,Pythagorean theorem,Two-dimensional space,0
+705,Prism (geometry),Congruence (geometry),0
+718,Geometry,Rotational symmetry,0
+746,Polygon,Square,0
+759,Perpendicular,Slope,0
+761,Line (geometry),Trigonometric functions,0
+767,Quadrilateral,Midpoint,0
+770,Geometry,Edge (geometry),0
+793,Geometry,Triangle,0
+805,Vertex (geometry),Sine,0
+806,Angle,Rotation (mathematics),0
+817,Face (geometry),Rhombus,0
+819,Polygon,Convex polygon,0
+826,Line segment,Radius,0
+833,Trapezoid,Parallelogram,0
+842,Angle,Convex polygon,0
+849,Geometry,Circle,0
+850,Similarity (geometry),Translation (geometry),0
+858,Point (geometry),Inverse trigonometric functions,0
+865,Parallel (geometry),Rhombus,0
+868,Edge (geometry),Rhombus,0
+874,Rhombus,Diagonal,0
+888,Plane (geometry),Two-dimensional space,0
+893,Symmetry,Perpendicular,0
+913,Angle,Triangle inequality,0
+915,Vertex (geometry),Right triangle,0
+920,Angle,Cone,0
+922,Reflection (mathematics),Cartesian coordinate system,0
+929,Tangent,Cross section (geometry),0
+938,Right angle,Pythagorean triple,0
+941,Perpendicular,Skew lines,0
+944,Square,Kite (geometry),0
+947,Diameter,Arc length,0
+952,Vertex (geometry),Quadrilateral,0
+957,Right angle,Cartesian coordinate system,0
+967,Polyhedron,Pyramid (geometry),0
+970,Transversal (geometry),Perpendicular,0
+978,Congruence (geometry),Space (mathematics),0
+980,Perpendicular,Line segment,0
+984,Parallelogram,Tangent,0
+1004,Tangent,Hexagon,0
+1005,Circle,Tangent,0
+1011,Circle,Cylinder (geometry),0
+1015,Point (geometry),Rotation (mathematics),0
+1017,Geometry,Angle,0
+1024,Slope,Secant line,0
+1028,Vertex (geometry),Face (geometry),0
+1036,Right triangle,Arc length,0
+1043,Trigonometric functions,Cartesian coordinate system,0
+1051,Altitude (triangle),Isosceles triangle,0
+1062,Rotational symmetry,Tessellation,0
+1065,Rectangle,Rotational symmetry,0
+1066,Polyhedron,Cartesian coordinate system,0
+1074,Geometry,Sphere,0
+1076,Point (geometry),Pentagon,0
+1098,Right angle,Special right triangles,0
+1099,Geometry,Diagonal,0
+1101,Parallelogram,Slope,0
+1103,Angle,Triangle,0
+1105,Equilateral triangle,Altitude (triangle),0
+1110,Midpoint,Diagonal,0
+1117,Slope,Distance,0
+1129,Angle,Rectangle,0
+1131,Line segment,Angle bisector theorem,0
+1132,Angle,Skew lines,0
+1148,Convex polygon,Rhombus,0
+1149,Angle,Heptagon,0
+1160,Line (geometry),Reflection (mathematics),0
+1163,Similarity (geometry),Equilateral triangle,0
+1166,Polygon,Dodecagon,0
+1170,Rhombus,Midpoint,0
+1171,Polygon,Internal and external angle,0
+1174,Angle,Exterior angle theorem,0
+1184,Symmetry,Scaling (geometry),0
+1188,Rotation (mathematics),Plane (geometry),0
+1203,Point (geometry),Altitude (triangle),0
+1204,Point (geometry),Plane (geometry),0
+1205,Star polygon,Tessellation,0
+1220,Line segment,Special right triangles,0
+1224,Circle,Perpendicular,0
+1225,Triangle,Diameter,0
+1231,Midpoint,Bisection,0
+1232,Triangle,Angle bisector theorem,0
+1233,Point (geometry),Skew lines,0
+1234,Prism (geometry),Rectangle,0
+1250,Coordinate system,Sine,0
+1263,Line (geometry),Polygon,0
+1267,Plane (geometry),Line (geometry),0
+1280,Plane (geometry),Cross section (geometry),0
+1283,Triangle,Cartesian coordinate system,0
+1284,Line (geometry),Altitude (triangle),0
+1288,Parallelogram,Diagonal,0
+1292,Pentagon,Hexagon,0
+1297,Midpoint,Triangle,0
+1308,Line (geometry),Nonagon,0
+1318,Similarity (geometry),Trapezoid,0
+1325,Line segment,Nonagon,0
+1341,Geometry,Diameter,0
+1356,Quadrilateral,Diagonal,0
+1358,Cone,Polygon,0
+1364,Geometry,Vertex (geometry),0
+1371,Geometry,Transversal (geometry),0
+1373,Geometry,Arc length,0
+1398,Rectangle,Midpoint,0
+1403,Polygon,Heptagon,0
+1423,Prism (geometry),Cylinder (geometry),0
+1444,Scaling (geometry),Similarity (geometry),0
+1447,Quadrilateral,Bisection,0
+1451,Circle,Arc length,0
+1456,Line (geometry),Transversal (geometry),0
+1467,Midpoint,Vertex (geometry),0
+1474,Geometry,Collinearity,0
+1482,Midpoint,Circle,0
+1488,Rotation (mathematics),Translation (geometry),0
+1502,Angle,Kite (geometry),0
+1503,Arc length,Angle,0
+1507,Rectangle,Convex polygon,0
+1517,Collinearity,Circle,0
+1521,Geometry,Polyhedron,0
+1531,Geometry,Chord (geometry),0
+1533,Geometry,Convex polygon,0
+1542,Right triangle,Pythagorean theorem,0
+1543,Symmetry,Bisection,0
+1552,Slope,Angle,0
+1566,Midpoint,Perpendicular,0
+1569,Geometry,Exterior angle theorem,0
+1575,Diagonal,Rhombus,0
+1577,Point (geometry),Prism (geometry),0
+1582,Arc length,Polygon,0
+1592,Line segment,Acute and obtuse triangles,0
+1599,Radius,Perpendicular,0
+1603,Polyhedron,Star polygon,0
+1609,Line segment,Midpoint,0
+1617,Two-dimensional space,Equilateral triangle,0
+1623,Right triangle,Special right triangles,0
+1647,Polyhedron,Sphere,0
+1648,Angle,Parallelogram,0
+1653,Rotational symmetry,Distance,0
+1657,Trigonometric functions,Secant line,0
+1658,Vertex (geometry),Polyhedron,0
+1665,Triangle,Parallelogram,0
+1667,Angle,Rotational symmetry,0

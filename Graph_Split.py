@@ -9,7 +9,6 @@ import networkx as nx
 import os
 import random
 
-from sklearn.model_selection import KFold
 from Scripts.utils import ReadCSV, MergingPreqsAndPairs, AddingStatsToDict, RatioOfNonTransitiveEdges, AllLinkedPrerequisitePairs
 
 
@@ -36,9 +35,32 @@ def RemoveNonTransitiveEdges(df, PrereqG):
     return df.drop(index = df[df.relations.isin(nx.edges(PrereqG))].index).drop(columns='relations')
 
 def RemoveInfereableEdges(df, PrereqG):
+    """Computes the transitive closure of PrereqG and removes the edges that are in the transitive closure from df => removes edges inferable by transitivity."""
     df              = df.copy(deep=True)
     df['relations'] = df.apply(lambda x: (x.Prerequisite, x.Concept), axis=1)
     return df.drop(index = df[df.relations.isin(AllLinkedPrerequisitePairs(PrereqG))].index).drop(columns='relations')
+
+def GetCurrentTrainingGraph(train_ds, direct_rel, trans_rel):
+    """Constructs the current training graph from training data and removed direct and transitive edges."""
+    ones = train_ds[train_ds.label_prereq == 1]
+    ones = ones.merge(pd.concat([direct_rel, trans_rel]).drop_duplicates(['Concept', 'Prerequisite']), on=['Concept', 'Prerequisite', 'label_prereq'], how='outer', indicator=True).query('_merge == "left_only"').drop('_merge', axis=1)
+    PrereqG_train = nx.from_pandas_edgelist(ones, source='Prerequisite', target='Concept', create_using=nx.DiGraph)
+    return PrereqG_train
+
+def StratifyTransitiveEdgesFromDF(PrereqG, removed_edge, trans_rel, trans_rel_df):
+    """Labels the transitive edges with respect to the formula:
+            (shortest_path_length(Prerequisite, removed_edge[0]), shortest_path_length(removed_edge[1], Concept)).
+        Useful when adding edges according to the preorder (k,l) ⇔ i+j≤k+l.
+    """
+    for transitive_relation in trans_rel_df.iterrows():
+        index, transitive_relation = transitive_relation
+        if(nx.has_path(PrereqG, source=transitive_relation.Prerequisite, target=removed_edge[0]) and nx.has_path(PrereqG, source=removed_edge[1], target=transitive_relation.Concept)):
+            key = (nx.shortest_path_length(PrereqG, source=transitive_relation.Prerequisite, target=removed_edge[0]), nx.shortest_path_length(PrereqG, source=removed_edge[1], target=transitive_relation.Concept))
+            if(key not in trans_rel.keys()):
+                trans_rel[key] = pd.DataFrame()       
+            trans_rel[key] = pd.concat([trans_rel[key], pd.DataFrame(transitive_relation).T]).drop_duplicates(['Concept', 'Prerequisite'])
+
+    return trans_rel
 
 def GraphSplitAlgorithm(df, DG, split_train=.8, verbose=False):
     """
@@ -51,7 +73,7 @@ def GraphSplitAlgorithm(df, DG, split_train=.8, verbose=False):
 
     train_ds = df.copy()
     test_ds  = pd.DataFrame.from_dict({train_ds.columns[0]:[], train_ds.columns[1]:[]})
-    trans_rel  = pd.DataFrame()
+    trans_rel  = {}
     direct_rel = pd.DataFrame()
     PrereqG_copy = DG.copy()
 
@@ -73,21 +95,56 @@ def GraphSplitAlgorithm(df, DG, split_train=.8, verbose=False):
         direct_ds       = train_ds[(train_ds.Concept.isin([removed_edge[1]]) & train_ds.Prerequisite.isin([removed_edge[0]]) & train_ds.label_prereq==1)]
 
         # Concat relations induced by transitivity
-        trans_rel  = pd.concat([trans_rel, transitive_ds, transitive_ds_2, transitive_ds_3]).drop_duplicates(['Concept', 'Prerequisite'])
+        trans_rel_df  = pd.concat([transitive_ds, transitive_ds_2, transitive_ds_3]).drop_duplicates(['Concept', 'Prerequisite'])
+        
+        # Label the transitive edges to order them
+        trans_rel = StratifyTransitiveEdgesFromDF(DG, removed_edge, trans_rel, trans_rel_df)
 
         # Concat relations that are not induced by transitivity
         direct_rel = pd.concat([direct_rel, direct_ds])
 
         # Remove Direct Edges in Transitive (See example of angle and geometry to understand why)
-        trans_rel = RemoveNonTransitiveEdges(trans_rel, DG)
+        trans_rel = {key: RemoveNonTransitiveEdges(value, DG) if not value.empty else value for key, value in trans_rel.items()}
 
     if(verbose):
         print("Percentage of non transitive edges before random selection ", direct_rel.shape[0] / (direct_rel.shape[0] + trans_rel.shape[0])*100)
         print("Transitive induced relations we computed - the number of transitive induced relations needed:", trans_rel.shape[0]-nbre_trans_test)
 
-    # Sampling the direct and transitive relations
-    trans_rel  = RemoveInfereableEdges(trans_rel, PrereqG_copy)
-    trans_rel_in_test  = trans_rel.copy().sample(n=min(nbre_trans_test, trans_rel.shape[0]), replace=False)
+    # Adding progressively transitive edges in the test set
+    trans_rel_test_candidates        = pd.DataFrame()
+    trans_rel_notinf_test_candidates = pd.DataFrame()
+    trans_rel_notinf_test_candidates_past = pd.DataFrame()	
+    trans_rel_in_test                = pd.DataFrame()
+
+    k = 0
+    # Sort the list of tuples using the custom order function
+    order = {key: key[0]+key[1]-1 for key, value in trans_rel.items()}
+    order_fun = lambda x: order[x]
+    sorted_indices = sorted(list(trans_rel.keys()), key=order_fun)
+    ## This loop adds the transitive edges to test set sequentially according to the preorder "order_fun"
+    while(nbre_trans_test > trans_rel_notinf_test_candidates.shape[0] and k < len(sorted_indices)):
+        index = sorted_indices[k]
+        trans_rel_test_candidates = pd.concat([trans_rel_notinf_test_candidates, trans_rel[index]]).drop_duplicates(['Concept', 'Prerequisite'])#trans_rel_notinf_test_candidates because it eliminates in the pool already problematic edges
+        PrereqG_copy = GetCurrentTrainingGraph(train_ds, direct_rel, trans_rel_test_candidates)
+        trans_rel_notinf_test_candidates    = RemoveInfereableEdges(trans_rel_test_candidates, PrereqG_copy)
+        if(nbre_trans_test < trans_rel_notinf_test_candidates.shape[0]):
+            trans_rel[index]       = RemoveInfereableEdges(trans_rel[index], PrereqG_copy)
+            trans_rel_notinf_test_candidates  = pd.concat([trans_rel_notinf_test_candidates_past, trans_rel[index].copy().sample(n=min(nbre_trans_test - trans_rel_notinf_test_candidates_past.shape[0], trans_rel[index].shape[0]), replace=False)]).drop_duplicates(['Concept', 'Prerequisite'])
+
+        ## This loop is useless for trees, it is only useful for graphs with diamond shaped subrgraphs
+        PrereqG_copy = GetCurrentTrainingGraph(train_ds, direct_rel, trans_rel_notinf_test_candidates)
+        new_trans_rel_notinf_test_candidates = RemoveInfereableEdges(trans_rel_notinf_test_candidates, PrereqG_copy).copy()
+        while(new_trans_rel_notinf_test_candidates.shape[0] != trans_rel_notinf_test_candidates.shape[0]):#hill climbing on a convex problem, will terminate, but can terminate with an empty set
+            trans_rel_notinf_test_candidates = new_trans_rel_notinf_test_candidates
+            PrereqG_copy = GetCurrentTrainingGraph(train_ds, direct_rel, trans_rel_notinf_test_candidates)#number of edges in graph increases here
+            new_trans_rel_notinf_test_candidates = RemoveInfereableEdges(trans_rel_notinf_test_candidates, PrereqG_copy).copy()#number of edges decreases here
+        # new_trans_rel_notinf_test_candidates.shape[0] >= 0 and trans_rel_notinf_test_candidates.shape[0] >= 0, therefore, the while loop will terminate
+
+        trans_rel_notinf_test_candidates_past = trans_rel_notinf_test_candidates
+        trans_rel_in_test = trans_rel_notinf_test_candidates
+        k+=1
+    
+    if min(nbre_trans_test, trans_rel_notinf_test_candidates.shape[0]) == trans_rel_notinf_test_candidates.shape[0]: print("Warning: The number of transitive relations required v.s. the number of transitive edge found: {0} v.s. {1}".format(nbre_trans_test, trans_rel_in_test.shape[0]))
     direct_rel_in_test = direct_rel.copy().sample(n=nbre_direct_test, replace=False)
     test_ds = pd.concat([direct_rel_in_test, trans_rel_in_test]).drop_duplicates(['Concept', 'Prerequisite'])
 
@@ -98,6 +155,10 @@ def GraphSplitAlgorithm(df, DG, split_train=.8, verbose=False):
 
     ## Removing testing set values from training set
     train_ds = train_ds.merge(test_ds, on=['Concept', 'Prerequisite', 'label_prereq'], how='outer', indicator=True).query('_merge == "left_only"').drop('_merge', axis=1)
+
+    ## Reindexing:
+    train_ds = train_ds.reset_index(drop=True).drop(columns=[col for col in train_ds.columns if 'index' in col])
+    test_ds  = test_ds.reset_index(drop=True).drop(columns=[col for col in test_ds.columns if 'index' in col])
 
     return train_ds, test_ds, PrereqG_copy
 
@@ -140,8 +201,9 @@ if __name__ == "__main__":
 
         ## Splitting the DataFrame indexes into 5 train/test splits
         for i in range(5):
-            ## Splitting the data according to cross validation folds
+            ## Splitting the data according to the Graph Split Algorithm
             train_df, test_df, train_G = GraphSplitAlgorithm(df, nxG, split_train=.8, verbose=False)
+            train_G = nx.from_pandas_edgelist(train_df[train_df.label_prereq==1], source='Prerequisite', target='Concept', create_using=nx.DiGraph)
 
             ## Storing Statistics
             info_split = AddingStatsToDict(info_split, train_df, nxG, train_G, Split_Type='Train', Fold_number=i+1)

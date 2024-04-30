@@ -1,1571 +1,1571 @@
-Concept,Prerequisite,label_prereq
-Gravitational acceleration,Position (vector),1
-Electrostatics,Distance,1
-Electrical resistance and conductance,Ohm's law,1
-Le Sage's theory of gravitation,Mass,1
-Projectile motion,Gravity,1
-Intensity (physics),Energy,1
-Dielectric,Insulator (electricity),1
-Gravity of Earth,Position (vector),1
-Acceleration,Position (vector),1
-Work (physics),Force,1
-Acceleration,Displacement (vector),1
-Gravity of Earth,Motion (physics),1
-Plasticity (physics),Physics,1
-Electric potential energy,Work (physics),1
-Photoelectric effect,Physics,1
-Emission spectrum,Electron,1
-Equations of motion,Force,1
-Dispersion (optics),Light,1
-Doppler effect,Physics,1
-Gravitational acceleration,Displacement (vector),1
-Speed,Motion (physics),1
-Non-inertial reference frame,Frame of reference,1
-Elasticity (physics),Physics,1
-Potential energy,Physics,1
-Gravitational constant,Force,1
-Snell's law,Speed,1
-Equations of motion,Physics,1
-Collision,Physics,1
-Electromagnetic spectrum,Field (physics),1
-Le Sage's theory of gravitation,Motion (physics),1
-Gravitational constant,Physics,1
-Electromagnetic spectrum,Force,1
-Newton's law of universal gravitation,Physics,1
-Electric potential,Distance,1
-Refractive index,Wave,1
-Doppler effect,Wave,1
-Electromotive force,Voltage,1
-Electric field,Energy,1
-Insulator (electricity),Electric current,1
-Motion graphs and derivatives,Euclidean vector,1
-Frame of reference,Physics,1
-Electromagnetic spectrum,Energy,1
-Energy level,Energy,1
-Gravitational constant,Gravity,1
-Elastic collision,Kinetic energy,1
-Strength of materials,Plasticity (physics),1
-Newton's law of universal gravitation,Gravity,1
-Projectile motion,Speed,1
-Photoelectric effect,Electron,1
-Free fall,Gravitational acceleration,1
-Mechanical energy,Euclidean vector,1
-Electric potential,Motion (physics),1
-Emission spectrum,Force,1
-Transverse wave,Physics,1
-Tension (physics),Physics,1
-Electrical resistance and conductance,Voltage,1
-Mirror image,Reflection (physics),1
-Tension (physics),Force,1
-Elastic collision,Relative velocity,1
-Electromagnetic radiation,Magnetic field,1
-Emission spectrum,Energy level,1
-Inertial frame of reference,Speed,1
-Specular reflection,Angle of incidence,1
-Gravitational field,Field (physics),1
-Collision,Force,1
-Inelastic collision,Mass,1
-Snell's law,Ray (optics),1
-Power (physics),Force,1
-Interference (wave propagation),Physics,1
-Scalar multiplication,Scalar (mathematics),1
-Standing wave,Interference (wave propagation),1
-Force,Physics,1
-Gravity,Force,1
-Work (physics),Position (vector),1
-Sonic boom,Sound,1
-Electromagnetic spectrum,Wavelength,1
-Gravitational field,Distance,1
-Emission spectrum,Frequency,1
-Specular reflection,Wave,1
-Gravitational acceleration,Acceleration,1
-Friction,Contact force,1
-Strength of materials,Force,1
-Gravity of Earth,Displacement (vector),1
-Laser,Light,1
-Newton's law of universal gravitation,Distance,1
-Electric potential energy,Energy,1
-Magnetic field,Magnet,1
-Equations of motion,Speed,1
-Diffraction,Physics,1
-Diffraction,Wave,1
-Free fall,Displacement (vector),1
-Deformation (engineering),Physics,1
-Equations of motion,Position (vector),1
-Strength of materials,Physics,1
-Le Sage's theory of gravitation,Speed,1
-Electromagnetic radiation,Magnet,1
-Mechanical energy,Velocity,1
-Scattering,Wave,1
-Dispersion (optics),Phase velocity,1
-Gravity of Earth,Physics,1
-Doppler effect,Speed,1
-Electromotive force,Field (physics),1
-Speed,Physics,1
-Magnetic field,Electric current,1
-Electromagnetic radiation,Field (physics),1
-Work (physics),Motion (physics),1
-Mechanical energy,Motion (physics),1
-Energy level,Physics,1
-Gravitational acceleration,Force,1
-Free fall,Physics,1
-Kinetic energy,Energy,1
-Motion graphs and derivatives,Physics,1
-Elastic collision,Speed,1
-Dispersion (optics),Physics,1
-Le Sage's theory of gravitation,Force,1
-Electrostatics,Potential energy,1
-Friction,Physics,1
-Relative velocity,Motion (physics),1
-Mechanical energy,Distance,1
-Free fall,Force,1
-Snell's law,Refraction,1
-Strength of materials,Fracture,1
-Normal force,Contact force,1
-Non-inertial reference frame,Motion (physics),1
-Intensity (physics),Force,1
-Relative velocity,Velocity,1
-Potential energy,Energy,1
-Shock wave,Wave,1
-Electric potential,Electric potential energy,1
-Gravity of Earth,Mass,1
-Virtual image,Ray (optics),1
-Electrostatics,Euclidean vector,1
-Motion graphs and derivatives,Displacement (vector),1
-Crest (physics),Wave,1
-Equations of motion,Motion (physics),1
-Gravitational acceleration,Motion (physics),1
-Electrostatics,Coulomb's law,1
-Displacement (vector),Euclidean vector,1
-Snell's law,Refractive index,1
-Stiffness,Physics,1
-Huygens–Fresnel principle,Amplitude,1
-Electric potential,Displacement (vector),1
-Acceleration,Motion (physics),1
-Emission spectrum,Magnet,1
-Velocity,Physics,1
-Shock wave,Speed,1
-Contact force,Force,1
-Standing wave,Frequency,1
-Electric potential,Potential energy,1
-Dispersion (optics),Wave,1
-Newton's laws of motion,Force,1
-Acceleration,Velocity,1
-Elasticity (physics),Deformation (engineering),1
-Capacitance,Voltage,1
-Electrostatics,Displacement (vector),1
-Free fall,Distance,1
-Doppler effect,Frequency,1
-Electromagnetic radiation,Electric field,1
-Gravity of Earth,Euclidean vector,1
-Mirror image,Plane mirror,1
-Snell's law,Wave,1
-Ohm's law,Voltage,1
-Displacement (vector),Physics,1
-Refracting telescope,Wave,1
-Potential energy,Motion (physics),1
-Inelastic collision,Force,1
-Total internal reflection,Physics,1
-Snell's law,Motion (physics),1
-Rarefaction,Wave,1
-Potential energy,Work (physics),1
-Electric potential energy,Force,1
-Gravity of Earth,Speed,1
-Hardness,Strength of materials,1
-Elastic collision,Collision,1
-Refractive index,Physics,1
-Projectile motion,Euclidean vector,1
-Emission spectrum,Wavelength,1
-Specular reflection,Reflection (physics),1
-Kinetic energy,Mass,1
-Electric potential energy,Motion (physics),1
-Electric potential,Force,1
-Free fall,Speed,1
-Friction,Force,1
-Electric potential energy,Electric field,1
-Elastic collision,Physics,1
-Torque,Physics,1
-Inertial frame of reference,Motion (physics),1
-Refraction,Physics,1
-Electric potential energy,Field (physics),1
-Potential energy,Force,1
-Mass,Physics,1
-Newton's laws of motion,Physics,1
-Projectile motion,Velocity,1
-Lever,Force,1
-Gravity of Earth,Force,1
-Intensity (physics),Physics,1
-Motion graphs and derivatives,Position (vector),1
-Refractive index,Angle of incidence,1
-Hardness,Deformation (engineering),1
-Projectile motion,Physics,1
-Electromotive force,Force,1
-Doppler effect,Wavelength,1
-Hardness,Fracture,1
-Speed,Distance,1
-Gravitational acceleration,Gravity,1
-Refractive index,Speed,1
-Elastic collision,Energy,1
-Electromagnetic spectrum,Frequency,1
-Gravitational field,Newton's law of universal gravitation,1
-Electrostatics,Energy,1
-Hooke's law,Deformation (engineering),1
-Elastic collision,Motion (physics),1
-Electromotive force,Magnet,1
-Electric field,Coulomb's law,1
-Potential energy,Euclidean vector,1
-Elastic collision,Mass,1
-Electric field,Field (physics),1
-Interference (wave propagation),Amplitude,1
-Electromotive force,Electric field,1
-Series and parallel circuits,Electrical resistance and conductance,1
-Fatigue (material),Force,1
-Free fall,Mass,1
-Capacitance,Electric charge,1
-Crest (physics),Physics,1
-Mechanical energy,Potential energy,1
-Creep (deformation),Deformation (engineering),1
-Emission spectrum,Electromagnetic radiation,1
-Transmission medium,Wave,1
-Transmission medium,Physics,1
-Mechanical energy,Position (vector),1
-Electrical conductor,Physics,1
-Gravitational constant,Distance,1
-Specular reflection,Physics,1
-Gravity of Earth,Distance,1
-Mechanical energy,Displacement (vector),1
-Shock wave,Physics,1
-Rarefaction,Physics,1
-Electromagnetic spectrum,Electromagnetic radiation,1
-Electrical conductor,Electric current,1
-Electromotive force,Energy,1
-Electric potential energy,Position (vector),1
-Reflection (physics),Light,1
-Electromagnetic spectrum,Physics,1
-Free fall,Velocity,1
-Emission spectrum,Field (physics),1
-Series and parallel circuits,Voltage,1
-Absorption spectroscopy,Energy,1
-Standing wave,Wave,1
-Electrostatics,Force,1
-Velocity,Distance,1
-Shock wave,Energy,1
-Geometrical optics,Ray (optics),1
-Creep (deformation),Physics,1
-Relative velocity,Physics,1
-Total internal reflection,Angle of incidence,1
-Elastic collision,Velocity,1
-Mechanical energy,Mass,1
-Electric potential energy,Physics,1
-Magnetism,Physics,1
-Motion graphs and derivatives,Motion (physics),1
-Free fall,Euclidean vector,1
-Electromotive force,Coulomb's law,1
-Free fall,Motion (physics),1
-Transverse wave,Wave,1
-Acceleration,Physics,1
-Newton's law of universal gravitation,Force,1
-Projectile motion,Force,1
-Torque,Force,1
-Pigment,Color,1
-Refractive index,Refraction,1
-Scattering,Physics,1
-Gravitational acceleration,Physics,1
-Gravity,Physics,1
-Refraction,Wave,1
-Projectile motion,Motion (physics),1
-Hooke's law,Elasticity (physics),1
-Dispersion (optics),Color,1
-Mirror image,Wave,1
-Gravitational field,Physics,1
-Potential energy,Displacement (vector),1
-Mechanical energy,Kinetic energy,1
-Plasticity (physics),Deformation (engineering),1
-Electromotive force,Physics,1
-Standing wave,Wavelength,1
-Frame of reference,Motion (physics),1
-Series and parallel circuits,Electric current,1
-Refractive index,Distance,1
-Electromagnetic spectrum,Absorption spectroscopy,1
-Deformation (engineering),Force,1
-Potential energy,Distance,1
-Strength of materials,Deformation (engineering),1
-Dielectric,Coulomb's law,1
-Absorption spectroscopy,Frequency,1
-Equations of motion,Velocity,1
-Mechanical energy,Energy,1
-Electric potential energy,Displacement (vector),1
-Magnetism,Force,1
-Refractive index,Motion (physics),1
-Series and parallel circuits,Ohm's law,1
-Dielectric,Electric current,1
-Relative velocity,Distance,1
-Work (physics),Physics,1
-Creep (deformation),Force,1
-Displacement (vector),Distance,1
-Electromagnetic radiation,Force,1
-Free fall,Position (vector),1
-Kinetic energy,Physics,1
-Electrostatics,Electric field,1
-Wavelength,Wave,1
-Plasticity (physics),Force,1
-Scattering,Wavelength,1
-Electrostatics,Motion (physics),1
-Emission spectrum,Physics,1
-Emission spectrum,Magnetic field,1
-Electromagnetic radiation,Electron,1
-Absorption spectroscopy,Wavelength,1
-Electromagnetic radiation,Physics,1
-Electric potential,Position (vector),1
-Photoelectric effect,Light,1
-Equations of motion,Distance,1
-Hardness,Plasticity (physics),1
-Gravitational acceleration,Distance,1
-Shock wave,Motion (physics),1
-Sound intensity,Intensity (physics),1
-Refracting telescope,Physics,1
-Acceleration,Euclidean vector,1
-Le Sage's theory of gravitation,Distance,1
-Dielectric,Physics,1
-Hardness,Force,1
-Electric potential,Field (physics),1
-Geometrical optics,Light,1
-Total internal reflection,Wave,1
-Total internal reflection,Reflection (physics),1
-Relative velocity,Speed,1
-Reflection (physics),Wave,1
-Fatigue (material),Elasticity (physics),1
-Magnetic field,Force,1
-Mirror image,Physics,1
-Velocity,Motion (physics),1
-Electric potential,Energy,1
-Hooke's law,Physics,1
-Fatigue (material),Physics,1
-Snell's law,Physics,1
-Free fall,Acceleration,1
-Work (physics),Energy,1
-Wavelength,Physics,1
-Displacement (vector),Position (vector),1
-Electromotive force,Electric current,1
-Intensity (physics),Power (physics),1
-Emission spectrum,Wave,1
-Magnetic field,Physics,1
-Electrostatics,Position (vector),1
-Gravity of Earth,Acceleration,1
-Emission spectrum,Energy,1
-Emission spectrum,Electric field,1
-Virtual image,Light,1
-Electrostatics,Field (physics),1
-Gravitational acceleration,Velocity,1
-Electromotive force,Magnetic field,1
-Electromagnetic radiation,Energy,1
-Snell's law,Distance,1
-Motion graphs and derivatives,Velocity,1
-Non-inertial reference frame,Physics,1
-Dielectric,Energy,1
-Gravity of Earth,Velocity,1
-Gravitational field,Mass,1
-Snell's law,Angle of incidence,1
-Mechanical energy,Force,1
-Magnetism,Magnet,1
-Voltmeter,Voltage,1
-Hertz,Frequency,1
-Specular reflection,Ray (optics),1
-Le Sage's theory of gravitation,Physics,1
-Mirror image,Light,1
-Contact force,Physics,1
-Hardness,Physics,1
-Motion (physics),Physics,1
-Electromagnetic spectrum,Coulomb's law,1
-Mechanical energy,Physics,1
-Gravitational acceleration,Speed,1
-Doppler effect,Relative velocity,1
-Elasticity (physics),Force,1
-Electromagnetic spectrum,Electric current,1
-Refracting telescope,Telescope,1
-Electrostatics,Electric potential energy,1
-Electromagnetic radiation,Coulomb's law,1
-Equations of motion,Acceleration,1
-Dielectric,Field (physics),1
-Photoelectric effect,Energy,1
-Sound intensity,Power (physics),1
-Electromagnetic radiation,Electric current,1
-Lever,Physics,1
-Refracting telescope,Refraction,1
-Emission spectrum,Coulomb's law,1
-Interference (wave propagation),Wavelength,1
-Electric potential,Physics,1
-Electromagnetic spectrum,Light,1
-Gravitational acceleration,Mass,1
-Emission spectrum,Electric current,1
-Magnetic field,Inertial frame of reference,0
-Mechanical energy,Gravitational field,0
-Physics,Electric potential energy,0
-Newton's laws of motion,Motion,0
-Speed,Length,0
-Energy,Intensity (physics),0
-Hooke's law,Work (physics),0
-Physics,Collision,0
-Electron,Mechanical energy,0
-Mass,Wave,0
-Potential energy,Gravity,0
-Refractive index,Electric field,0
-Photoelectric effect,Collision,0
-Diffraction,Field (physics),0
-Electrical conductor,Electromagnetic spectrum,0
-Magnetic field,Velocity,0
-Crest (physics),Doppler effect,0
-Wave,Reflection (physics),0
-Physics,Stiffness,0
-Magnetic field,Relative velocity,0
-Electric potential,Joule,0
-Temperature,Physics,0
-Energy level,Temperature,0
-Velocity,Doppler effect,0
-Normal force,Velocity,0
-Electromagnetic radiation,Velocity,0
-Magnetism,Electric current,0
-Position (vector),Acceleration,0
-Physics,Snell's law,0
-Energy,Joule,0
-Plane mirror,Length,0
-Capacitance,Coulomb,0
-Dielectric,Voltage,0
-Magnetism,Field line,0
-Distance,Optical microscope,0
-Electrostatics,Electric current,0
-Displacement (vector),Mass,0
-Electron,Electroscope,0
-Electroscope,Electrostatics,0
-Intensity (physics),Light,0
-Electron,Frequency,0
-Angle of incidence,Ray (optics),0
-Temperature,Absorption spectroscopy,0
-Newton's laws of motion,Collision,0
-Laser,Absorption spectroscopy,0
-Voltage,Electromotive force,0
-Position (vector),Force,0
-Acceleration,Work (physics),0
-Reflection (physics),Total internal reflection,0
-Absorption spectroscopy,Planet,0
-Refractive index,Laser,0
-Gravity,Doppler effect,0
-Amplitude,Doppler effect,0
-Wave,Tension (physics),0
-Gravity of Earth,Torque,0
-Deformation (engineering),Elasticity (physics),0
-Acceleration,Electric potential,0
-Magnetic field,Mirror image,0
-Potential energy,Power (physics),0
-Le Sage's theory of gravitation,Collision,0
-Specular reflection,Euclidean vector,0
-Electron,Absorption spectroscopy,0
-Physics,Rarefaction,0
-Plasticity (physics),Hardness,0
-Physics,Wavelength,0
-Fracture,Strength of materials,0
-Force,Sound intensity,0
-Wavelength,Dispersion (optics),0
-Temperature,Electrical resistance and conductance,0
-Magnetic field,Absorption spectroscopy,0
-Field (physics),Planet,0
-Energy,Sound intensity,0
-Energy level,Wavelength,0
-Euclidean vector,Electrostatics,0
-Friction,Hooke's law,0
-Hertz,Velocity,0
-Newton's law of universal gravitation,Gravitational constant,0
-Wave,Transverse wave,0
-Laser,Doppler effect,0
-Acceleration,Non-inertial reference frame,0
-Newton's law of universal gravitation,Gravitational field,0
-Potential energy,Torque,0
-Photoelectric effect,Kinetic energy,0
-Energy,Electromotive force,0
-Newton's laws of motion,Gravity of Earth,0
-Light,Wavelength,0
-Force,Plasticity (physics),0
-Newton's law of universal gravitation,Kilogram,0
-Electrical conductor,Metre,0
-Telescope,Reflection (physics),0
-Energy,Hertz,0
-Wavelength,Interference (wave propagation),0
-Magnet,Electric field,0
-Work (physics),Joule,0
-Photoelectric effect,Hertz,0
-Light,Plane mirror,0
-Speed,Snell's law,0
-Magnification,Refracting telescope,0
-Force,Projectile motion,0
-Force,Hardness,0
-Snell's law,Velocity,0
-Velocity,Elastic collision,0
-Magnetic field,Energy,0
-Joule,Mechanical energy,0
-Mass,Electron,0
-Electric field,Mass,0
-Refractive index,Temperature,0
-Field line,Magnetic field,0
-Newton's laws of motion,Work (physics),0
-Electrostatics,Field line,0
-Diffraction,Huygens–Fresnel principle,0
-Force,Elasticity (physics),0
-Energy,Potential energy,0
-Electric field,Coulomb,0
-Electric field,Electric current,0
-Frequency,Energy,0
-Lever,Length,0
-Physics,Transmission medium,0
-Magnetism,Length,0
-Light,Refracting telescope,0
-Physics,Shock wave,0
-Photoelectric effect,Electromagnetic radiation,0
-Magnetic field,Voltage,0
-Tension (physics),Mass,0
-Interference (wave propagation),Electron,0
-Euclidean vector,Force,0
-Magnetic field,Dielectric,0
-Interference (wave propagation),Huygens–Fresnel principle,0
-Distance,Free fall,0
-Velocity,Metre,0
-Ohm,Coulomb,0
-Magnetic field,Torque,0
-Physics,Displacement (vector),0
-Intensity (physics),Wave,0
-Wave,Energy,0
-Capacitor,Dielectric,0
-Geometrical optics,Snell's law,0
-Wave,Doppler effect,0
-Power (physics),Intensity (physics),0
-Le Sage's theory of gravitation,Energy,0
-Hooke's law,Stiffness,0
-Physics,Emission spectrum,0
-Motion (physics),Energy,0
-Magnetic field,Gravity of Earth,0
-Electron,Electromagnetic radiation,0
-Acceleration,Torque,0
-Physics,Electric field,0
-Diffraction,Interference (wave propagation),0
-Force,Stiffness,0
-Distance,Gravity of Earth,0
-Electric charge,Capacitance,0
-Friction,Mass,0
-Free fall,Gravitational field,0
-Energy,Laser,0
-Electric field,Wavelength,0
-Elasticity (physics),Hardness,0
-Force,Elastic collision,0
-Refraction,Absorption spectroscopy,0
-Refraction,Electromagnetic spectrum,0
-Newton's laws of motion,Contact force,0
-Electron,Distance,0
-Collision,Le Sage's theory of gravitation,0
-Magnetic field,Potential energy,0
-Refractive index,Snell's law,0
-Amplitude,Huygens–Fresnel principle,0
-Motion (physics),Electrostatics,0
-Acceleration,Field (physics),0
-Scattering,Velocity,0
-Electron,Specular reflection,0
-Standing wave,Voltage,0
-Diffraction,Dispersion (optics),0
-Inelastic collision,Elastic collision,0
-Magnetism,Coulomb,0
-Wave,Intensity (physics),0
-Mass,Distance,0
-Displacement (vector),Work (physics),0
-Kinetic energy,Mechanical energy,0
-Velocity,Wave,0
-Mirror image,Distance,0
-Gravity,Gravitational acceleration,0
-Wave,Elasticity (physics),0
-Speed,Shock wave,0
-Speed,Electromagnetic spectrum,0
-Electron,Electrostatics,0
-Euclidean vector,Gravitational acceleration,0
-Frequency,Doppler effect,0
-Fracture,Elasticity (physics),0
-Temperature,Kilogram,0
-Distance,Elastic collision,0
-Physics,Doppler effect,0
-Displacement (vector),Projectile motion,0
-Electric potential,Capacitance,0
-Motion (physics),Newton's laws of motion,0
-Speed,Rarefaction,0
-Pigment,Wavelength,0
-Interference (wave propagation),Crest (physics),0
-Wave,Electromagnetic spectrum,0
-Motion (physics),Elastic collision,0
-Work (physics),Electrostatics,0
-Force,Magnet,0
-Force,Torque,0
-Motion (physics),Inertial frame of reference,0
-Capacitance,Distance,0
-Coulomb's law,Emission spectrum,0
-Position (vector),Free fall,0
-Deformation (engineering),Creep (deformation),0
-Electrical resistance and conductance,Energy,0
-Motion (physics),Mass,0
-Magnet,Euclidean vector,0
-Voltage,Electric current,0
-Dielectric,Velocity,0
-Velocity,Speed,0
-Energy,Temperature,0
-Euclidean vector,Gravity of Earth,0
-Energy,Dielectric,0
-Energy,Equations of motion,0
-Physics,Contact force,0
-Energy,Transverse wave,0
-Magnet,Mass,0
-Speed,Gravity of Earth,0
-Energy,Electrostatics,0
-Mirror image,Length,0
-Diffraction,Specular reflection,0
-Motion (physics),Temperature,0
-Photoelectric effect,Color,0
-Deformation (engineering),Hardness,0
-Electric potential energy,Coulomb,0
-Specular reflection,Refraction,0
-Lever,Energy,0
-Electromagnetic radiation,Laser,0
-Velocity,Equations of motion,0
-Electron,Electrical conductor,0
-Interference (wave propagation),Ray (optics),0
-Energy,Energy level,0
-Refraction,Length,0
-Telescope,Optical microscope,0
-Stiffness,Hooke's law,0
-Physics,Electromagnetic spectrum,0
-Electron,Potential energy,0
-Torque,Speed,0
-Force,Emission spectrum,0
-Hooke's law,Mass,0
-Sonic boom,Hertz,0
-Displacement (vector),Free fall,0
-Electron,Le Sage's theory of gravitation,0
-Force,Electrostatics,0
-Elasticity (physics),Energy,0
-Energy,Emission spectrum,0
-Frequency,Interference (wave propagation),0
-Color,Dispersion (optics),0
-Motion (physics),Gravity of Earth,0
-Magnetic field,Temperature,0
-Tension (physics),Compression (physics),0
-Distance,Lever,0
-Force,Length,0
-Physics,Refractive index,0
-Torque,Energy,0
-Electrical resistance and conductance,Metre,0
-Field (physics),Electrostatics,0
-Gravity of Earth,Free fall,0
-Position (vector),Electric potential,0
-Diffraction,Transverse wave,0
-Dielectric,Reflection (physics),0
-Interference (wave propagation),Energy,0
-Force,Inelastic collision,0
-Magnetism,Field (physics),0
-Friction,Deformation (engineering),0
-Temperature,Velocity,0
-Elasticity (physics),Strength of materials,0
-Physics,Motion graphs and derivatives,0
-Interference (wave propagation),Standing wave,0
-Physics,Elastic collision,0
-Speed,Inelastic collision,0
-Energy,Mirror image,0
-Wave,Dispersion (optics),0
-Distance,Physics,0
-Force,Fatigue (material),0
-Mass,Collision,0
-Electric field,Wave,0
-Gravity of Earth,Newton's law of universal gravitation,0
-Refraction,Snell's law,0
-Sound intensity,Velocity,0
-Magnification,Virtual image,0
-Motion (physics),Force,0
-Mass,Gravity of Earth,0
-Transmission medium,Electromagnetic spectrum,0
-Electric field,Electric potential,0
-Position (vector),Electric potential energy,0
-Hertz,Kilogram,0
-Electron,Field (physics),0
-Joule,Velocity,0
-Insulator (electricity),Dielectric,0
-Mass,Velocity,0
-Force,Le Sage's theory of gravitation,0
-Force,Direction (geometry),0
-Speed,Dielectric,0
-Magnet,Force,0
-Physics,Energy,0
-Mass,Absorption spectroscopy,0
-Joule,Torque,0
-Velocity,Mechanical energy,0
-Amplitude,Electromagnetic spectrum,0
-Electron,Dielectric,0
-Voltage,Power (physics),0
-Equations of motion,Length,0
-Amplitude,Electrical resistance and conductance,0
-Distance,Equations of motion,0
-Absorption spectroscopy,Electromagnetic spectrum,0
-Motion (physics),Power (physics),0
-Wavelength,Doppler effect,0
-Wave,Length,0
-Voltage,Coulomb,0
-Friction,Normal force,0
-Physics,Hardness,0
-Euclidean vector,Inertial frame of reference,0
-Voltage,Electrical resistance and conductance,0
-Electromagnetic radiation,Dispersion (optics),0
-Specular reflection,Mirror image,0
-Electromagnetic spectrum,Reflection (physics),0
-Electric potential,Gravitational field,0
-Coulomb's law,Electric potential energy,0
-Magnet,Electromagnetic spectrum,0
-Plasticity (physics),Hooke's law,0
-Snell's law,Total internal reflection,0
-Physics,Diffraction,0
-Electromotive force,Joule,0
-Virtual image,Plane mirror,0
-Magnetic field,Coulomb,0
-Sonic boom,Mass,0
-Equations of motion,Torque,0
-Angle of incidence,Reflection (physics),0
-Intensity (physics),Sound intensity,0
-Electric field,Electric potential energy,0
-Magnetic field,Hertz,0
-Capacitance,Energy,0
-Wave,Dielectric,0
-Force,Kilogram,0
-Shock wave,Force,0
-Interference (wave propagation),Electromagnetic spectrum,0
-Virtual image,Optical microscope,0
-Motion (physics),Velocity,0
-Hooke's law,Distance,0
-Field (physics),Emission spectrum,0
-Refractive index,Wavelength,0
-Le Sage's theory of gravitation,Velocity,0
-Electron,Dispersion (optics),0
-Acceleration,Electromagnetic radiation,0
-Magnet,Length,0
-Euclidean vector,Free fall,0
-Intensity (physics),Interference (wave propagation),0
-Wave,Le Sage's theory of gravitation,0
-Voltage,Electric potential,0
-Newton's laws of motion,Newton's law of universal gravitation,0
-Acceleration,Direction (geometry),0
-Photoelectric effect,Voltage,0
-Energy,Absorption spectroscopy,0
-Physics,Electric potential,0
-Inelastic collision,Velocity,0
-Speed,Mass,0
-Power (physics),Velocity,0
-Gravity of Earth,Kilogram,0
-Hooke's law,Wave,0
-Acceleration,Newton's law of universal gravitation,0
-Kinetic energy,Force,0
-Magnet,Electrical resistance and conductance,0
-Energy,Projectile motion,0
-Motion (physics),Magnetism,0
-Torque,Distance,0
-Displacement (vector),Velocity,0
-Magnet,Field (physics),0
-Voltage,Voltmeter,0
-Diffraction,Optical microscope,0
-Energy,Electric potential energy,0
-Amplitude,Power (physics),0
-Laser,Power (physics),0
-Distance,Electric potential energy,0
-Le Sage's theory of gravitation,Laser,0
-Torque,Length,0
-Electroscope,Capacitance,0
-Photoelectric effect,Electric field,0
-Physics,Non-inertial reference frame,0
-Wave,Interference (wave propagation),0
-Specular reflection,Wavelength,0
-Electromagnetic radiation,Metre,0
-Collision,Planet,0
-Gravitational acceleration,Inertial frame of reference,0
-Friction,Velocity,0
-Electron,Reflection (physics),0
-Temperature,Magnetism,0
-Electron,Kilogram,0
-Potential energy,Electric potential energy,0
-Free fall,Metre,0
-Electromotive force,Voltmeter,0
-Friction,Coulomb,0
-Deformation (engineering),Fatigue (material),0
-Work (physics),Planet,0
-Newton's law of universal gravitation,Velocity,0
-Free fall,Planet,0
-Telescope,Planet,0
-Position (vector),Potential energy,0
-Speed,Work (physics),0
-Displacement (vector),Electrostatics,0
-Voltage,Electric field,0
-Crest (physics),Frequency,0
-Dielectric,Frequency,0
-Electric potential,Electroscope,0
-Shock wave,Magnetic field,0
-Hooke's law,Dielectric,0
-Physics,Motion (physics),0
-Newton's law of universal gravitation,Free fall,0
-Mass,Elastic collision,0
-Electron,Electromagnetic spectrum,0
-Gravity,Gravitational field,0
-Light,Reflection (physics),0
-Magnetism,Magnetic field,0
-Physics,Lever,0
-Resonance (particle physics),Scattering,0
-Energy,Tension (physics),0
-Kinetic energy,Elastic collision,0
-Wavelength,Scattering,0
-Capacitance,Length,0
-Energy level,Absorption spectroscopy,0
-Acceleration,Photoelectric effect,0
-Strength of materials,Hardness,0
-Wave,Force,0
-Electron,Contact force,0
-Friction,Electron,0
-Distance,Electric potential,0
-Magnetism,Le Sage's theory of gravitation,0
-Ray (optics),Snell's law,0
-Light,Mirror image,0
-Hooke's law,Torque,0
-Angle of incidence,Total internal reflection,0
-Wavelength,Snell's law,0
-Euclidean vector,Position (vector),0
-Electron,Electromotive force,0
-Hardness,Kilogram,0
-Electrical conductor,Electrical resistance and conductance,0
-Newton's law of universal gravitation,Electric field,0
-Sound intensity,Distance,0
-Deformation (engineering),Plasticity (physics),0
-Tangential and normal components,Euclidean vector,0
-Magnetic field,Mass,0
-Force,Tension (physics),0
-Electron,Field line,0
-Light,Photoelectric effect,0
-Speed,Magnetism,0
-Energy,Elastic collision,0
-Friction,Temperature,0
-Capacitor,Insulator (electricity),0
-Electric current,Electromagnetic radiation,0
-Scalar (mathematics),Distance,0
-Fracture,Hardness,0
-Magnetic field,Wave,0
-Friction,Torque,0
-Amplitude,Standing wave,0
-Physics,Electromagnetic radiation,0
-Coulomb's law,Coulomb,0
-Dielectric,Electromagnetic spectrum,0
-Energy,Creep (deformation),0
-Speed,Magnet,0
-Frequency,Hooke's law,0
-Physics,Electrical conductor,0
-Electroscope,Coulomb's law,0
-Energy,Mass,0
-Speed,Equations of motion,0
-Wavelength,Speed,0
-Motion (physics),Mechanical energy,0
-Wavelength,Absorption spectroscopy,0
-Mass,Wavelength,0
-Motion (physics),Projectile motion,0
-Energy,Dispersion (optics),0
-Physics,Friction,0
-Speed,Elastic collision,0
-Ohm,Velocity,0
-Sonic boom,Speed,0
-Gravity,Gravitational constant,0
-Distance,Gravitational constant,0
-Force,Gravity of Earth,0
-Mass,Kilogram,0
-Acceleration,Free fall,0
-Electron,Emission spectrum,0
-Electron,Capacitance,0
-Force,Lever,0
-Displacement (vector),Acceleration,0
-Scalar (mathematics),Euclidean vector,0
-Magnetic field,Electromagnetic spectrum,0
-Interference (wave propagation),Geometrical optics,0
-Amplitude,Frequency,0
-Voltage,Ohm,0
-Free fall,Normal force,0
-Plane mirror,Reflection (physics),0
-Physics,Transverse wave,0
-Work (physics),Resultant force,0
-Physics,Dielectric,0
-Emission spectrum,Collision,0
-Electromotive force,Electrical resistance and conductance,0
-Electron,Joule,0
-Wave,Refracting telescope,0
-Displacement (vector),Equations of motion,0
-Motion (physics),Distance,0
-Field line,Coulomb's law,0
-Plasticity (physics),Elasticity (physics),0
-Refraction,Ray (optics),0
-Force,Motion (physics),0
-Creep (deformation),Temperature,0
-Scattering,Collision,0
-Equations of motion,Gravitational field,0
-Work (physics),Kinetic energy,0
-Physics,Le Sage's theory of gravitation,0
-Refraction,Reflection (physics),0
-Kinetic energy,Velocity,0
-Energy,Field (physics),0
-Electron,Motion (physics),0
-Speed,Field (physics),0
-Field (physics),Magnetic field,0
-Speed,Refractive index,0
-Ohm,Kilogram,0
-Hooke's law,Temperature,0
-Euclidean vector,Projectile motion,0
-Euclidean vector,Motion graphs and derivatives,0
-Physics,Relative velocity,0
-Fracture,Magnet,0
-Motion (physics),Speed,0
-Gravity,Acceleration,0
-Mass,Gravitational acceleration,0
-Force,Gravity,0
-Wave,Emission spectrum,0
-Joule,Potential energy,0
-Wave,Velocity,0
-Force,Normal force,0
-Electric current,Series and parallel circuits,0
-Lever,Power (physics),0
-Frame of reference,Inertial frame of reference,0
-Refraction,Refracting telescope,0
-Intensity (physics),Refractive index,0
-Electrical polarity,Force,0
-Electron,Scattering,0
-Force,Electric current,0
-Ray (optics),Total internal reflection,0
-Wave,Snell's law,0
-Wave,Transmission medium,0
-Acceleration,Projectile motion,0
-Speed,Dispersion (optics),0
-Light,Dispersion (optics),0
-Work (physics),Power (physics),0
-Mass,Projectile motion,0
-Electrical conductor,Insulator (electricity),0
-Electric potential energy,Electrostatics,0
-Friction,Potential energy,0
-Electric field,Absorption spectroscopy,0
-Physics,Refraction,0
-Relative velocity,Elastic collision,0
-Physics,Creep (deformation),0
-Geometrical optics,Refractive index,0
-Magnetic field,Planet,0
-Electromagnetic radiation,Le Sage's theory of gravitation,0
-Newton's law of universal gravitation,Energy,0
-Snell's law,Electromagnetic radiation,0
-Acceleration,Tension (physics),0
-Force,Strength of materials,0
-Capacitance,Planet,0
-Magnetic field,Metre,0
-Potential energy,Velocity,0
-Electrical resistance and conductance,Length,0
-Interference (wave propagation),Laser,0
-Energy,Electron,0
-Wave,Hertz,0
-Euclidean vector,Field (physics),0
-Projectile motion,Free fall,0
-Photoelectric effect,Amplitude,0
-Magnet,Temperature,0
-Elasticity (physics),Temperature,0
-Wave,Crest (physics),0
-Capacitance,Potential energy,0
-Rarefaction,Mass,0
-Collision,Velocity,0
-Light,Optical microscope,0
-Force,Power (physics),0
-Potential energy,Gravitational field,0
-Speed,Position (vector),0
-Physics,Plasticity (physics),0
-Hooke's law,Kilogram,0
-Inertial frame of reference,Force,0
-Torque,Velocity,0
-Friction,Work (physics),0
-Diffraction,Refractive index,0
-Motion (physics),Doppler effect,0
-Refractive index,Electromagnetic radiation,0
-Ohm,Metre,0
-Magnetic field,Electric field,0
-Distance,Le Sage's theory of gravitation,0
-Magnetic field,Mechanical energy,0
-Physics,Sound intensity,0
-Mass,Field (physics),0
-Frequency,Wavelength,0
-Position (vector),Mass,0
-Interference (wave propagation),Kilogram,0
-Wave,Rarefaction,0
-Amplitude,Electric field,0
-Angle of incidence,Specular reflection,0
-Position (vector),Displacement (vector),0
-Energy,Photoelectric effect,0
-Position (vector),Distance,0
-Hooke's law,Creep (deformation),0
-Absorption spectroscopy,Length,0
-Kinetic energy,Inelastic collision,0
-Velocity,Gravitational acceleration,0
-Inertial frame of reference,Elastic collision,0
-Physics,Frame of reference,0
-Hooke's law,Amplitude,0
-Coulomb's law,Electric potential,0
-Ohm's law,Series and parallel circuits,0
-Mass,Mechanical energy,0
-Field line,Mass,0
-Telescope,Electromagnetic spectrum,0
-Refractive index,Optical microscope,0
-Mass,Free fall,0
-Displacement (vector),Motion graphs and derivatives,0
-Motion (physics),Relative velocity,0
-Electromagnetic radiation,Voltage,0
-Wave,Wavelength,0
-Temperature,Force,0
-Light,Electromagnetic spectrum,0
-Shock wave,Temperature,0
-Physics,Potential energy,0
-Refractive index,Transverse wave,0
-Refractive index,Real image,0
-Frequency,Absorption spectroscopy,0
-Wave,Gravitational field,0
-Contact force,Friction,0
-Sonic boom,Shock wave,0
-Physics,Photoelectric effect,0
-Specular reflection,Distance,0
-Energy,Distance,0
-Energy,Gravitational field,0
-Energy,Refraction,0
-Non-inertial reference frame,Force,0
-Euclidean vector,Scalar (mathematics),0
-Voltage,Energy,0
-Coulomb's law,Electromagnetic radiation,0
-Electric field,Distance,0
-Speed,Temperature,0
-Speed,Relative velocity,0
-Electromagnetic radiation,Energy level,0
-Tension (physics),Potential energy,0
-Le Sage's theory of gravitation,Planet,0
-Voltage,Ohm's law,0
-Lever,Work (physics),0
-Work (physics),Mechanical energy,0
-Work (physics),Length,0
-Hooke's law,Tension (physics),0
-Field line,Gravitational field,0
-Photoelectric effect,Electromagnetic spectrum,0
-Light,Total internal reflection,0
-Electrostatics,Coulomb,0
-Electrical conductor,Capacitance,0
-Force,Coulomb,0
-Wave,Specular reflection,0
-Speed,Doppler effect,0
-Direction (geometry),Distance,0
-Physics,Electrostatics,0
-Wavelength,Emission spectrum,0
-Magnetic field,Equations of motion,0
-Frequency,Emission spectrum,0
-Elasticity (physics),Potential energy,0
-Le Sage's theory of gravitation,Temperature,0
-Laser,Physics,0
-Physics,Normal force,0
-Electron,Velocity,0
-Direction (geometry),Euclidean vector,0
-Electric current,Insulator (electricity),0
-Physics,Equations of motion,0
-Acceleration,Normal force,0
-Motion (physics),Electric potential,0
-Work (physics),Kilogram,0
-Potential energy,Kinetic energy,0
-Physics,Newton's laws of motion,0
-Capacitance,Force,0
-Speed,Mechanical energy,0
-Scattering,Energy,0
-Physics,Strength of materials,0
-Interference (wave propagation),Length,0
-Fatigue (material),Strength of materials,0
-Lever,Distance,0
-Distance,Work (physics),0
-Refraction,Refractive index,0
-Wavelength,Amplitude,0
-Elasticity (physics),Fatigue (material),0
-Potential energy,Elastic collision,0
-Newton's law of universal gravitation,Coulomb's law,0
-Joule,Voltage,0
-Electromagnetic spectrum,Length,0
-Electric potential,Mass,0
-Pigment,Subtractive color,0
-Collision,Distance,0
-Wave,Speed,0
-Electric potential,Electron,0
-Mass,Planet,0
-Refractive index,Length,0
-Wave,Sonic boom,0
-Diffraction,Electron,0
-Field line,Capacitance,0
-Displacement (vector),Electric potential energy,0
-Mass,Coulomb,0
-Magnetism,Energy,0
-Refractive index,Energy,0
-Position (vector),Motion graphs and derivatives,0
-Gravity,Normal force,0
-Newton's laws of motion,Kilogram,0
-Physics,Inelastic collision,0
-Physics,Gravitational constant,0
-Friction,Mechanical energy,0
-Motion (physics),Gravity,0
-Refractive index,Total internal reflection,0
-Wave,Equations of motion,0
-Newton's law of universal gravitation,Mass,0
-Electron,Energy,0
-Electromagnetic radiation,Electromagnetic spectrum,0
-Acceleration,Kilogram,0
-Physics,Magnetic field,0
-Motion (physics),Field (physics),0
-Acceleration,Gravitational acceleration,0
-Acceleration,Magnetic field,0
-Plane mirror,Ray (optics),0
-Motion (physics),Electric potential energy,0
-Electron,Photoelectric effect,0
-Gravitational acceleration,Potential energy,0
-Non-inertial reference frame,Inertial frame of reference,0
-Light,Metre,0
-Force,Equations of motion,0
-Huygens–Fresnel principle,Wavelength,0
-Energy,Hooke's law,0
-Friction,Free body diagram,0
-Electron,Inelastic collision,0
-Emission spectrum,Mass,0
-Dispersion (optics),Velocity,0
-Euclidean vector,Equations of motion,0
-Gravity of Earth,Non-inertial reference frame,0
-Force,Electric potential,0
-Motion (physics),Refractive index,0
-Elastic collision,Potential energy,0
-Voltage,Electrostatics,0
-Magnetic field,Electrostatics,0
-Electron,Electrical resistance and conductance,0
-Speed,Gravitational field,0
-Physics,Sonic boom,0
-Dielectric,Torque,0
-Friction,Lever,0
-Refraction,Diffraction,0
-Physics,Dispersion (optics),0
-Equations of motion,Gravity,0
-Electrical resistance and conductance,Joule,0
-Plane mirror,Mirror image,0
-Scalar multiplication,Position (vector),0
-Field (physics),Electric field,0
-Ohm's law,Magnetic field,0
-Potential energy,Length,0
-Euclidean vector,Velocity,0
-Hertz,Electromagnetic radiation,0
-Electron,Electrical polarity,0
-Position (vector),Work (physics),0
-Electromagnetic radiation,Absorption spectroscopy,0
-Interference (wave propagation),Optical microscope,0
-Light,Geometrical optics,0
-Distance,Projectile motion,0
-Photoelectric effect,Length,0
-Photoelectric effect,Frequency,0
-Acceleration,Friction,0
-Physics,Mirror image,0
-Distance,Shock wave,0
-Length,Hooke's law,0
-Electron,Optical microscope,0
-Wave,Potential energy,0
-Electric field,Dielectric,0
-Power (physics),Length,0
-Speed,Displacement (vector),0
-Laser,Dispersion (optics),0
-Acceleration,Newton's laws of motion,0
-Angle of incidence,Refractive index,0
-Coulomb's law,Electromotive force,0
-Coulomb's law,Field (physics),0
-Light,Ray (optics),0
-Hooke's law,Electric field,0
-Distance,Gravitational acceleration,0
-Voltage,Free fall,0
-Force,Metre,0
-Wave,Field (physics),0
-Refraction,Velocity,0
-Refracting telescope,Gravity,0
-Sound,Sonic boom,0
-Lever,Velocity,0
-Electron,Collision,0
-Optical microscope,Wavelength,0
-Coulomb,Electromotive force,0
-Magnet,Wave,0
-Interference (wave propagation),Distance,0
-Magnetic field,Tangential and normal components,0
-Friction,Energy,0
-Joule,Mass,0
-Field (physics),Electromagnetic radiation,0
-Dielectric,Distance,0
-Electron,Telescope,0
-Voltmeter,Electroscope,0
-Euclidean vector,Mechanical energy,0
-Electron,Coulomb,0
-Hardness,Crystallinity,0
-Electron,Electric current,0
-Euclidean vector,Physics,0
-Euclidean vector,Potential energy,0
-Energy level,Diffraction,0
-Electrical resistance and conductance,Ohmmeter,0
-Work (physics),Metre,0
-Electrical conductor,Electric field,0
-Voltage,Electromagnetic spectrum,0
-Voltmeter,Amplitude,0
-Snell's law,Refracting telescope,0
-Distance,Contact force,0
-Voltage,Equations of motion,0
-Tension (physics),Contact force,0
-Euclidean vector,Displacement (vector),0
-Electric current,Power (physics),0
-Scattering,Laser,0
-Magnification,Optical microscope,0
-Electromagnetic radiation,Diffraction,0
-Electron,Physics,0
-Geometrical optics,Wavelength,0
-Intensity (physics),Electric field,0
-Plane mirror,Geometrical optics,0
-Magnetism,Temperature,0
-Physics,Force,0
-Crest (physics),Amplitude,0
-Electric current,Emission spectrum,0
-Relative velocity,Inertial frame of reference,0
-Force,Acceleration,0
-Mass,Gravity,0
-Telescope,Refracting telescope,0
-Euclidean vector,Electric potential,0
-Energy,Kilogram,0
-Photoelectric effect,Force,0
-Field (physics),Electromagnetic spectrum,0
-Physics,Acceleration,0
-Ohm,Power (physics),0
-Friction,Collision,0
-Work (physics),Electric potential energy,0
-Physics,Speed,0
-Sonic boom,Temperature,0
-Magnetic field,Refractive index,0
-Dielectric,Refractive index,0
-Field (physics),Velocity,0
-Gravitational acceleration,Gravitational field,0
-Euclidean vector,Electric potential energy,0
-Electron,Wavelength,0
-Magnet,Compass,0
-Magnet,Distance,0
-Potential energy,Electric potential,0
-Energy,Reflection (physics),0
-Potential energy,Kilogram,0
-Refraction,Frequency,0
-Motion (physics),Work (physics),0
-Velocity,Force,0
-Force,Electromagnetic spectrum,0
-Acceleration,Sonic boom,0
-Photoelectric effect,Laser,0
-Electron,Force,0
-Electrical resistance and conductance,Series and parallel circuits,0
-Force,Free fall,0
-Hooke's law,Metre,0
-Interference (wave propagation),Refractive index,0
-Work (physics),Electric potential,0
-Speed,Euclidean vector,0
-Magnetic field,Electromagnetic radiation,0
-Friction,Euclidean vector,0
-Position (vector),Gravitational acceleration,0
-Wave,Shock wave,0
-Electron,Temperature,0
-Refraction,Transmission medium,0
-Transverse wave,Electromagnetic spectrum,0
-Hertz,Musical tone,0
-Refraction,Wavelength,0
-Electron,Laser,0
-Energy,Electromagnetic spectrum,0
-Frequency,Hertz,0
-Electric field,Electrostatics,0
-Magnetic field,Electron,0
-Power (physics),Sound intensity,0
-Ammeter,Metre,0
-Energy level,Frequency,0
-Mass,Torque,0
-Refractive index,Metre,0
-Electric field,Electromotive force,0
-Force,Wave,0
-Force,Planet,0
-Force,Gravitational field,0
-Interference (wave propagation),Telescope,0
-Velocity,Acceleration,0
-Light,Virtual image,0
-Acceleration,Frame of reference,0
-Laser,Optical microscope,0
-Field (physics),Electric potential energy,0
-Speed,Free fall,0
-Energy,Velocity,0
-Speed,Le Sage's theory of gravitation,0
-Frame of reference,Force,0
-Electron,Light,0
-Force,Intensity (physics),0
-Force,Field (physics),0
-Specular reflection,Plane mirror,0
-Insulator (electricity),Electrostatics,0
-Intensity (physics),Electromagnetic radiation,0
-Electrical resistance and conductance,Distance,0
-Shock wave,Refraction,0
-Rarefaction,Transmission medium,0
-Force,Electric potential energy,0
-Pigment,Light,0
-Force,Work (physics),0
-Motion (physics),Non-inertial reference frame,0
-Ray (optics),Virtual image,0
-Color,Pigment,0
-Sonic boom,Length,0
-Physics,Gravity of Earth,0
-Acceleration,Electron,0
-Motion (physics),Gravitational acceleration,0
-Mass,Normal force,0
-Electromotive force,Ohm's law,0
-Voltmeter,Electric potential,0
-Dispersion (optics),Wavelength,0
-Fracture,Light,0
-Friction,Kinetic energy,0
-Transverse wave,Ray (optics),0
-Physics,Torque,0
-Motion (physics),Free fall,0
-Motion (physics),Frame of reference,0
-Light,Inertial frame of reference,0
-Dispersion (optics),Length,0
-Force,Electromagnetic radiation,0
-Velocity,Motion graphs and derivatives,0
-Intensity (physics),Photoelectric effect,0
-Frequency,Electromagnetic spectrum,0
-Joule,Kinetic energy,0
-Euclidean vector,Normal force,0
-Friction,Gravity,0
-Electron,Coulomb's law,0
-Electric field,Magnetism,0
-Reflection (physics),Mirror image,0
-Hooke's law,Lever,0
-Electric potential,Kilogram,0
-Frame of reference,Mass,0
-Euclidean vector,Torque,0
-Motion (physics),Le Sage's theory of gravitation,0
-Telescope,Mass,0
-Laser,Diffraction,0
-Refractive index,Force,0
-Displacement (vector),Stiffness,0
-Inelastic collision,Friction,0
-Velocity,Projectile motion,0
-Reflection (physics),Diffraction,0
-Scattering,Light,0
-Energy,Le Sage's theory of gravitation,0
-Electric field,Emission spectrum,0
-Potential energy,Mechanical energy,0
-Electrical conductor,Electromagnetic radiation,0
-Position (vector),Projectile motion,0
-Gravity of Earth,Potential energy,0
-Friction,Speed,0
-Wave,Refraction,0
-Friction,Dielectric,0
-Emission spectrum,Temperature,0
-Frame of reference,Non-inertial reference frame,0
-Elasticity (physics),Stiffness,0
-Electron,Wave,0
-Work (physics),Torque,0
-Displacement (vector),Gravity of Earth,0
-Shock wave,Mass,0
-Magnification,Reflection (physics),0
-Mechanical energy,Collision,0
-Acceleration,Inertial frame of reference,0
-Magnetism,Coulomb's law,0
-Position (vector),Gravity of Earth,0
-Electron,Hertz,0
-Distance,Snell's law,0
-Amplitude,Snell's law,0
-Speed,Normal force,0
-Scalar (mathematics),Scalar multiplication,0
-Electron,Angle of incidence,0
-Temperature,Kinetic energy,0
-Interference (wave propagation),Velocity,0
-Frequency,Wave,0
-Joule,Capacitance,0
-Electric potential energy,Electron,0
-Magnetism,Compass,0
-Gravity,Free fall,0
-Angle of incidence,Snell's law,0
-Reflection (physics),Plane mirror,0
-Magnet,Voltage,0
-Distance,Inertial frame of reference,0
-Acceleration,Gravitational field,0
-Physics,Gravitational field,0
-Real image,Virtual image,0
-Electric potential energy,Capacitance,0
-Acceleration,Equations of motion,0
-Refraction,Temperature,0
-Force,Magnetic field,0
-Intensity (physics),Distance,0
-Position (vector),Equations of motion,0
-Physics,Deformation (engineering),0
-Acceleration,Hooke's law,0
-Wavelength,Refractive index,0
-Field (physics),Distance,0
-Light,Snell's law,0
-Friction,Length,0
-Elastic collision,Inertial frame of reference,0
-Joule,Force,0
-Joule,Ohm,0
-Distance,Newton's law of universal gravitation,0
-Telescope,Wavelength,0
-Kinetic energy,Collision,0
-Physics,Gravity,0
-Electric current,Equations of motion,0
-Temperature,Electromagnetic spectrum,0
-Amplitude,Equations of motion,0
-Refraction,Total internal reflection,0
-Displacement (vector),Length,0
-Distance,Gravitational field,0
-Angle of incidence,Refraction,0
-Reflection (physics),Specular reflection,0
-Ohm's law,Electrical resistance and conductance,0
-Light,Electromagnetic radiation,0
-Hertz,Electromagnetic spectrum,0
-Motion (physics),Equations of motion,0
-Mass,Gravitational field,0
-Electric field,Euclidean vector,0
-Magnetic field,Euclidean vector,0
-Wave,Distance,0
-Newton's law of universal gravitation,Telescope,0
-Distance,Relative velocity,0
-Displacement (vector),Electric potential,0
-Physics,Electromotive force,0
-Magnet,Energy,0
-Fracture,Creep (deformation),0
-Insulator (electricity),Velocity,0
-Inertial frame of reference,Length,0
-Inelastic collision,Le Sage's theory of gravitation,0
-Energy,Force,0
-Lever,Torque,0
-Dispersion (optics),Distance,0
-Electrical conductor,Dielectric,0
-Gravity,Projectile motion,0
-Mass,Inertial frame of reference,0
-Euclidean vector,Acceleration,0
-Magnet,Electric current,0
-Distance,Mechanical energy,0
-Magnet,Emission spectrum,0
-Tension (physics),Length,0
-Magnetism,Velocity,0
-Elasticity (physics),Field (physics),0
-Force,Deformation (engineering),0
-Work (physics),Mass,0
-Magnetic field,Distance,0
-Ray (optics),Geometrical optics,0
-Physics,Kinetic energy,0
-Wave,Diffraction,0
-Motion (physics),Snell's law,0
-Gravitational acceleration,Free fall,0
-Wavelength,Electromagnetic spectrum,0
-Wavelength,Light,0
-Frequency,Standing wave,0
-Physics,Energy level,0
-Dielectric,Magnet,0
-Gravity,Le Sage's theory of gravitation,0
-Motion (physics),Planet,0
-Electromagnetic radiation,Power (physics),0
-Electric field,Reflection (physics),0
-Magnet,Electromotive force,0
-Coulomb's law,Electrostatics,0
-Inelastic collision,Mechanical energy,0
-Distance,Refractive index,0
-Physics,Inertial frame of reference,0
-Magnet,Torque,0
-Amplitude,Field (physics),0
-Friction,Gravitational acceleration,0
-Amplitude,Displacement (vector),0
-Refractive index,Ray (optics),0
-Mirror image,Geometrical optics,0
-Force,Contact force,0
-Electric current,Dielectric,0
-Refraction,Dispersion (optics),0
-Mass,Inelastic collision,0
-Deformation (engineering),Hooke's law,0
-Speed,Acceleration,0
-Electric field,Electromagnetic spectrum,0
-Virtual image,Mirror image,0
-Tension (physics),Transverse wave,0
-Field (physics),Coulomb,0
-Electric potential,Coulomb,0
-Elastic collision,Mechanical energy,0
-Force,Hooke's law,0
-Friction,Le Sage's theory of gravitation,0
-Physics,Fatigue (material),0
-Dispersion (optics),Geometrical optics,0
-Standing wave,Hertz,0
-Magnet,Potential energy,0
-Light,Laser,0
-Velocity,Intensity (physics),0
-Energy,Electric potential,0
-Velocity,Wavelength,0
-Gravity,Newton's law of universal gravitation,0
-Temperature,Mass,0
-Potential energy,Electrostatics,0
-Compass,Force,0
-Plasticity (physics),Strength of materials,0
-Electromotive force,Work (physics),0
-Magnetic field,Wavelength,0
-Physics,Total internal reflection,0
-Distance,Motion graphs and derivatives,0
-Intensity (physics),Amplitude,0
-Specular reflection,Total internal reflection,0
-Light,Refraction,0
-Electromotive force,Magnetism,0
-Electric field,Insulator (electricity),0
-Electromagnetic radiation,Wavelength,0
-Potential energy,Coulomb,0
-Physics,Absorption spectroscopy,0
-Force,Newton's law of universal gravitation,0
-Plasticity (physics),Fracture,0
-Plane mirror,Real image,0
-Speed,Hertz,0
-Electric field,Gravitational field,0
-Force,Gravitational constant,0
-Stiffness,Creep (deformation),0
-Elasticity (physics),Displacement (vector),0
-Amplitude,Sound intensity,0
-Hooke's law,Potential energy,0
-Electron,Doppler effect,0
-Electric field,Field line,0
-Geometrical optics,Refraction,0
-Force,Newton's laws of motion,0
-Electric field,Metre,0
-Gravity of Earth,Gravitational acceleration,0
-Standing wave,Laser,0
-Telescope,Dispersion (optics),0
-Friction,Electrical resistance and conductance,0
-Energy,Coulomb,0
-Diffraction,Plane mirror,0
-Motion (physics),Kinetic energy,0
-Electromagnetic radiation,Scattering,0
-Speed,Force,0
-Hooke's law,Displacement (vector),0
-Real image,Optical microscope,0
-Electric current,Electrical conductor,0
-Electric current,Field (physics),0
-Stiffness,Length,0
-Mass,Frequency,0
-Position (vector),Length,0
-Mass,Equations of motion,0
-Le Sage's theory of gravitation,Coulomb,0
-Force,Collision,0
-Energy,Inelastic collision,0
-Temperature,Fatigue (material),0
-Relative velocity,Doppler effect,0
-Curved mirror,Plane mirror,0
-Physics,Refracting telescope,0
-Physics,Scattering,0
-Acceleration,Mass,0
-Capacitance,Dielectric,0
-Energy,Metre,0
-Voltage,Capacitance,0
-Mass,Le Sage's theory of gravitation,0
-Voltage,Series and parallel circuits,0
-Physics,Velocity,0
-Magnetic field,Work (physics),0
+index,Concept,Prerequisite,label_prereq
+0,Gravitational acceleration,Position (vector),1
+2,Electrostatics,Distance,1
+3,Electrical resistance and conductance,Ohm's law,1
+4,Le Sage's theory of gravitation,Mass,1
+5,Projectile motion,Gravity,1
+6,Intensity (physics),Energy,1
+7,Dielectric,Insulator (electricity),1
+9,Gravity of Earth,Position (vector),1
+10,Acceleration,Position (vector),1
+11,Work (physics),Force,1
+12,Acceleration,Displacement (vector),1
+15,Gravity of Earth,Motion (physics),1
+16,Plasticity (physics),Physics,1
+17,Electric potential energy,Work (physics),1
+18,Photoelectric effect,Physics,1
+19,Emission spectrum,Electron,1
+22,Equations of motion,Force,1
+23,Dispersion (optics),Light,1
+24,Doppler effect,Physics,1
+25,Gravitational acceleration,Displacement (vector),1
+27,Speed,Motion (physics),1
+28,Non-inertial reference frame,Frame of reference,1
+29,Elasticity (physics),Physics,1
+30,Potential energy,Physics,1
+31,Gravitational constant,Force,1
+32,Snell's law,Speed,1
+33,Equations of motion,Physics,1
+35,Collision,Physics,1
+36,Electromagnetic spectrum,Field (physics),1
+38,Le Sage's theory of gravitation,Motion (physics),1
+39,Gravitational constant,Physics,1
+41,Electromagnetic spectrum,Force,1
+42,Newton's law of universal gravitation,Physics,1
+43,Electric potential,Distance,1
+44,Refractive index,Wave,1
+45,Doppler effect,Wave,1
+46,Electromotive force,Voltage,1
+47,Electric field,Energy,1
+48,Insulator (electricity),Electric current,1
+49,Motion graphs and derivatives,Euclidean vector,1
+50,Frame of reference,Physics,1
+51,Electromagnetic spectrum,Energy,1
+52,Energy level,Energy,1
+54,Gravitational constant,Gravity,1
+55,Elastic collision,Kinetic energy,1
+56,Strength of materials,Plasticity (physics),1
+57,Newton's law of universal gravitation,Gravity,1
+58,Projectile motion,Speed,1
+59,Photoelectric effect,Electron,1
+60,Free fall,Gravitational acceleration,1
+61,Mechanical energy,Euclidean vector,1
+62,Electric potential,Motion (physics),1
+63,Emission spectrum,Force,1
+65,Transverse wave,Physics,1
+66,Tension (physics),Physics,1
+67,Electrical resistance and conductance,Voltage,1
+68,Mirror image,Reflection (physics),1
+69,Tension (physics),Force,1
+70,Elastic collision,Relative velocity,1
+71,Electromagnetic radiation,Magnetic field,1
+72,Emission spectrum,Energy level,1
+73,Inertial frame of reference,Speed,1
+74,Specular reflection,Angle of incidence,1
+75,Gravitational field,Field (physics),1
+76,Collision,Force,1
+77,Inelastic collision,Mass,1
+78,Snell's law,Ray (optics),1
+79,Power (physics),Force,1
+80,Interference (wave propagation),Physics,1
+81,Scalar multiplication,Scalar (mathematics),1
+82,Standing wave,Interference (wave propagation),1
+83,Force,Physics,1
+84,Gravity,Force,1
+85,Work (physics),Position (vector),1
+86,Sonic boom,Sound,1
+88,Electromagnetic spectrum,Wavelength,1
+89,Gravitational field,Distance,1
+90,Emission spectrum,Frequency,1
+92,Specular reflection,Wave,1
+93,Gravitational acceleration,Acceleration,1
+94,Friction,Contact force,1
+96,Strength of materials,Force,1
+97,Gravity of Earth,Displacement (vector),1
+99,Laser,Light,1
+100,Newton's law of universal gravitation,Distance,1
+101,Electric potential energy,Energy,1
+102,Magnetic field,Magnet,1
+104,Equations of motion,Speed,1
+105,Diffraction,Physics,1
+106,Diffraction,Wave,1
+107,Free fall,Displacement (vector),1
+108,Deformation (engineering),Physics,1
+109,Equations of motion,Position (vector),1
+110,Strength of materials,Physics,1
+111,Le Sage's theory of gravitation,Speed,1
+113,Electromagnetic radiation,Magnet,1
+114,Mechanical energy,Velocity,1
+115,Scattering,Wave,1
+116,Dispersion (optics),Phase velocity,1
+117,Gravity of Earth,Physics,1
+118,Doppler effect,Speed,1
+119,Electromotive force,Field (physics),1
+120,Speed,Physics,1
+123,Magnetic field,Electric current,1
+124,Electromagnetic radiation,Field (physics),1
+125,Work (physics),Motion (physics),1
+126,Mechanical energy,Motion (physics),1
+127,Energy level,Physics,1
+128,Gravitational acceleration,Force,1
+129,Free fall,Physics,1
+131,Kinetic energy,Energy,1
+132,Motion graphs and derivatives,Physics,1
+133,Elastic collision,Speed,1
+135,Dispersion (optics),Physics,1
+136,Le Sage's theory of gravitation,Force,1
+137,Electrostatics,Potential energy,1
+138,Friction,Physics,1
+139,Relative velocity,Motion (physics),1
+140,Mechanical energy,Distance,1
+141,Free fall,Force,1
+142,Snell's law,Refraction,1
+144,Strength of materials,Fracture,1
+145,Normal force,Contact force,1
+147,Non-inertial reference frame,Motion (physics),1
+148,Intensity (physics),Force,1
+149,Relative velocity,Velocity,1
+153,Potential energy,Energy,1
+154,Shock wave,Wave,1
+155,Electric potential,Electric potential energy,1
+156,Gravity of Earth,Mass,1
+157,Virtual image,Ray (optics),1
+158,Electrostatics,Euclidean vector,1
+159,Motion graphs and derivatives,Displacement (vector),1
+162,Crest (physics),Wave,1
+163,Equations of motion,Motion (physics),1
+164,Gravitational acceleration,Motion (physics),1
+165,Electrostatics,Coulomb's law,1
+167,Displacement (vector),Euclidean vector,1
+168,Snell's law,Refractive index,1
+169,Stiffness,Physics,1
+170,Huygens–Fresnel principle,Amplitude,1
+171,Electric potential,Displacement (vector),1
+172,Acceleration,Motion (physics),1
+173,Emission spectrum,Magnet,1
+174,Velocity,Physics,1
+175,Shock wave,Speed,1
+176,Contact force,Force,1
+177,Standing wave,Frequency,1
+178,Electric potential,Potential energy,1
+179,Dispersion (optics),Wave,1
+180,Newton's laws of motion,Force,1
+181,Acceleration,Velocity,1
+182,Elasticity (physics),Deformation (engineering),1
+183,Capacitance,Voltage,1
+184,Electrostatics,Displacement (vector),1
+185,Free fall,Distance,1
+188,Doppler effect,Frequency,1
+190,Electromagnetic radiation,Electric field,1
+191,Gravity of Earth,Euclidean vector,1
+192,Mirror image,Plane mirror,1
+193,Snell's law,Wave,1
+194,Ohm's law,Voltage,1
+195,Displacement (vector),Physics,1
+196,Refracting telescope,Wave,1
+198,Potential energy,Motion (physics),1
+199,Inelastic collision,Force,1
+203,Total internal reflection,Physics,1
+204,Snell's law,Motion (physics),1
+208,Rarefaction,Wave,1
+209,Potential energy,Work (physics),1
+210,Electric potential energy,Force,1
+211,Gravity of Earth,Speed,1
+212,Hardness,Strength of materials,1
+213,Elastic collision,Collision,1
+214,Refractive index,Physics,1
+215,Projectile motion,Euclidean vector,1
+217,Emission spectrum,Wavelength,1
+218,Specular reflection,Reflection (physics),1
+220,Kinetic energy,Mass,1
+221,Electric potential energy,Motion (physics),1
+222,Electric potential,Force,1
+223,Free fall,Speed,1
+224,Friction,Force,1
+226,Electric potential energy,Electric field,1
+227,Elastic collision,Physics,1
+228,Torque,Physics,1
+231,Inertial frame of reference,Motion (physics),1
+232,Refraction,Physics,1
+233,Electric potential energy,Field (physics),1
+234,Potential energy,Force,1
+235,Mass,Physics,1
+236,Newton's laws of motion,Physics,1
+237,Projectile motion,Velocity,1
+238,Lever,Force,1
+239,Gravity of Earth,Force,1
+240,Intensity (physics),Physics,1
+242,Motion graphs and derivatives,Position (vector),1
+243,Refractive index,Angle of incidence,1
+244,Hardness,Deformation (engineering),1
+245,Projectile motion,Physics,1
+247,Electromotive force,Force,1
+248,Doppler effect,Wavelength,1
+249,Hardness,Fracture,1
+250,Speed,Distance,1
+251,Gravitational acceleration,Gravity,1
+254,Refractive index,Speed,1
+255,Elastic collision,Energy,1
+256,Electromagnetic spectrum,Frequency,1
+257,Gravitational field,Newton's law of universal gravitation,1
+258,Electrostatics,Energy,1
+259,Hooke's law,Deformation (engineering),1
+260,Elastic collision,Motion (physics),1
+261,Electromotive force,Magnet,1
+263,Electric field,Coulomb's law,1
+264,Potential energy,Euclidean vector,1
+265,Elastic collision,Mass,1
+266,Electric field,Field (physics),1
+267,Interference (wave propagation),Amplitude,1
+268,Electromotive force,Electric field,1
+270,Series and parallel circuits,Electrical resistance and conductance,1
+271,Fatigue (material),Force,1
+272,Free fall,Mass,1
+273,Capacitance,Electric charge,1
+274,Crest (physics),Physics,1
+275,Mechanical energy,Potential energy,1
+277,Creep (deformation),Deformation (engineering),1
+278,Emission spectrum,Electromagnetic radiation,1
+280,Transmission medium,Wave,1
+281,Transmission medium,Physics,1
+282,Mechanical energy,Position (vector),1
+284,Electrical conductor,Physics,1
+285,Gravitational constant,Distance,1
+286,Specular reflection,Physics,1
+287,Gravity of Earth,Distance,1
+289,Mechanical energy,Displacement (vector),1
+290,Shock wave,Physics,1
+291,Rarefaction,Physics,1
+292,Electromagnetic spectrum,Electromagnetic radiation,1
+294,Electrical conductor,Electric current,1
+296,Electromotive force,Energy,1
+297,Electric potential energy,Position (vector),1
+298,Reflection (physics),Light,1
+299,Electromagnetic spectrum,Physics,1
+300,Free fall,Velocity,1
+301,Emission spectrum,Field (physics),1
+302,Series and parallel circuits,Voltage,1
+303,Absorption spectroscopy,Energy,1
+304,Standing wave,Wave,1
+305,Electrostatics,Force,1
+306,Velocity,Distance,1
+307,Shock wave,Energy,1
+308,Geometrical optics,Ray (optics),1
+309,Creep (deformation),Physics,1
+310,Relative velocity,Physics,1
+311,Total internal reflection,Angle of incidence,1
+312,Elastic collision,Velocity,1
+313,Mechanical energy,Mass,1
+314,Electric potential energy,Physics,1
+316,Magnetism,Physics,1
+318,Motion graphs and derivatives,Motion (physics),1
+319,Free fall,Euclidean vector,1
+320,Electromotive force,Coulomb's law,1
+321,Free fall,Motion (physics),1
+322,Transverse wave,Wave,1
+323,Acceleration,Physics,1
+324,Newton's law of universal gravitation,Force,1
+325,Projectile motion,Force,1
+326,Torque,Force,1
+327,Pigment,Color,1
+328,Refractive index,Refraction,1
+329,Scattering,Physics,1
+331,Gravitational acceleration,Physics,1
+332,Gravity,Physics,1
+333,Refraction,Wave,1
+334,Projectile motion,Motion (physics),1
+335,Hooke's law,Elasticity (physics),1
+336,Dispersion (optics),Color,1
+338,Mirror image,Wave,1
+339,Gravitational field,Physics,1
+340,Potential energy,Displacement (vector),1
+341,Mechanical energy,Kinetic energy,1
+342,Plasticity (physics),Deformation (engineering),1
+344,Electromotive force,Physics,1
+346,Standing wave,Wavelength,1
+347,Frame of reference,Motion (physics),1
+348,Series and parallel circuits,Electric current,1
+349,Refractive index,Distance,1
+350,Electromagnetic spectrum,Absorption spectroscopy,1
+351,Deformation (engineering),Force,1
+352,Potential energy,Distance,1
+353,Strength of materials,Deformation (engineering),1
+354,Dielectric,Coulomb's law,1
+355,Absorption spectroscopy,Frequency,1
+356,Equations of motion,Velocity,1
+357,Mechanical energy,Energy,1
+358,Electric potential energy,Displacement (vector),1
+359,Magnetism,Force,1
+360,Refractive index,Motion (physics),1
+361,Series and parallel circuits,Ohm's law,1
+362,Dielectric,Electric current,1
+363,Relative velocity,Distance,1
+364,Work (physics),Physics,1
+365,Creep (deformation),Force,1
+366,Displacement (vector),Distance,1
+367,Electromagnetic radiation,Force,1
+368,Free fall,Position (vector),1
+369,Kinetic energy,Physics,1
+370,Electrostatics,Electric field,1
+371,Wavelength,Wave,1
+372,Plasticity (physics),Force,1
+373,Scattering,Wavelength,1
+374,Electrostatics,Motion (physics),1
+375,Emission spectrum,Physics,1
+376,Emission spectrum,Magnetic field,1
+377,Electromagnetic radiation,Electron,1
+380,Absorption spectroscopy,Wavelength,1
+381,Electromagnetic radiation,Physics,1
+382,Electric potential,Position (vector),1
+383,Photoelectric effect,Light,1
+386,Equations of motion,Distance,1
+388,Hardness,Plasticity (physics),1
+389,Gravitational acceleration,Distance,1
+390,Shock wave,Motion (physics),1
+393,Sound intensity,Intensity (physics),1
+394,Refracting telescope,Physics,1
+395,Acceleration,Euclidean vector,1
+396,Le Sage's theory of gravitation,Distance,1
+398,Dielectric,Physics,1
+399,Hardness,Force,1
+404,Electric potential,Field (physics),1
+405,Geometrical optics,Light,1
+407,Total internal reflection,Wave,1
+408,Total internal reflection,Reflection (physics),1
+409,Relative velocity,Speed,1
+410,Reflection (physics),Wave,1
+411,Fatigue (material),Elasticity (physics),1
+412,Magnetic field,Force,1
+413,Mirror image,Physics,1
+414,Velocity,Motion (physics),1
+415,Electric potential,Energy,1
+416,Hooke's law,Physics,1
+417,Fatigue (material),Physics,1
+419,Snell's law,Physics,1
+420,Free fall,Acceleration,1
+421,Work (physics),Energy,1
+422,Wavelength,Physics,1
+423,Displacement (vector),Position (vector),1
+424,Electromotive force,Electric current,1
+425,Intensity (physics),Power (physics),1
+426,Emission spectrum,Wave,1
+427,Magnetic field,Physics,1
+428,Electrostatics,Position (vector),1
+429,Gravity of Earth,Acceleration,1
+430,Emission spectrum,Energy,1
+431,Emission spectrum,Electric field,1
+432,Virtual image,Light,1
+433,Electrostatics,Field (physics),1
+434,Gravitational acceleration,Velocity,1
+435,Electromotive force,Magnetic field,1
+436,Electromagnetic radiation,Energy,1
+438,Snell's law,Distance,1
+439,Motion graphs and derivatives,Velocity,1
+440,Non-inertial reference frame,Physics,1
+442,Dielectric,Energy,1
+443,Gravity of Earth,Velocity,1
+444,Gravitational field,Mass,1
+445,Snell's law,Angle of incidence,1
+446,Mechanical energy,Force,1
+447,Magnetism,Magnet,1
+448,Voltmeter,Voltage,1
+449,Hertz,Frequency,1
+450,Specular reflection,Ray (optics),1
+451,Le Sage's theory of gravitation,Physics,1
+453,Mirror image,Light,1
+454,Contact force,Physics,1
+456,Hardness,Physics,1
+457,Motion (physics),Physics,1
+458,Electromagnetic spectrum,Coulomb's law,1
+460,Mechanical energy,Physics,1
+461,Gravitational acceleration,Speed,1
+462,Doppler effect,Relative velocity,1
+464,Elasticity (physics),Force,1
+465,Electromagnetic spectrum,Electric current,1
+467,Refracting telescope,Telescope,1
+468,Electrostatics,Electric potential energy,1
+470,Electromagnetic radiation,Coulomb's law,1
+471,Equations of motion,Acceleration,1
+473,Dielectric,Field (physics),1
+475,Photoelectric effect,Energy,1
+476,Sound intensity,Power (physics),1
+477,Electromagnetic radiation,Electric current,1
+478,Lever,Physics,1
+479,Refracting telescope,Refraction,1
+480,Emission spectrum,Coulomb's law,1
+481,Interference (wave propagation),Wavelength,1
+482,Electric potential,Physics,1
+483,Electromagnetic spectrum,Light,1
+485,Gravitational acceleration,Mass,1
+486,Emission spectrum,Electric current,1
+0,Magnetic field,Inertial frame of reference,0
+3,Mechanical energy,Gravitational field,0
+4,Physics,Electric potential energy,0
+5,Newton's laws of motion,Motion,0
+7,Speed,Length,0
+8,Energy,Intensity (physics),0
+10,Hooke's law,Work (physics),0
+12,Physics,Collision,0
+13,Electron,Mechanical energy,0
+14,Mass,Wave,0
+15,Potential energy,Gravity,0
+16,Refractive index,Electric field,0
+18,Photoelectric effect,Collision,0
+23,Diffraction,Field (physics),0
+25,Electrical conductor,Electromagnetic spectrum,0
+26,Magnetic field,Velocity,0
+27,Crest (physics),Doppler effect,0
+28,Wave,Reflection (physics),0
+32,Physics,Stiffness,0
+33,Magnetic field,Relative velocity,0
+35,Electric potential,Joule,0
+36,Temperature,Physics,0
+37,Energy level,Temperature,0
+38,Velocity,Doppler effect,0
+39,Normal force,Velocity,0
+40,Electromagnetic radiation,Velocity,0
+41,Magnetism,Electric current,0
+44,Position (vector),Acceleration,0
+46,Physics,Snell's law,0
+47,Energy,Joule,0
+50,Plane mirror,Length,0
+51,Capacitance,Coulomb,0
+52,Dielectric,Voltage,0
+54,Magnetism,Field line,0
+56,Distance,Optical microscope,0
+58,Electrostatics,Electric current,0
+59,Displacement (vector),Mass,0
+61,Electron,Electroscope,0
+62,Electroscope,Electrostatics,0
+63,Intensity (physics),Light,0
+64,Electron,Frequency,0
+65,Angle of incidence,Ray (optics),0
+66,Temperature,Absorption spectroscopy,0
+67,Newton's laws of motion,Collision,0
+69,Laser,Absorption spectroscopy,0
+71,Voltage,Electromotive force,0
+73,Position (vector),Force,0
+74,Acceleration,Work (physics),0
+75,Reflection (physics),Total internal reflection,0
+77,Absorption spectroscopy,Planet,0
+78,Refractive index,Laser,0
+79,Gravity,Doppler effect,0
+80,Amplitude,Doppler effect,0
+81,Wave,Tension (physics),0
+83,Gravity of Earth,Torque,0
+84,Deformation (engineering),Elasticity (physics),0
+85,Acceleration,Electric potential,0
+87,Magnetic field,Mirror image,0
+90,Potential energy,Power (physics),0
+93,Le Sage's theory of gravitation,Collision,0
+94,Specular reflection,Euclidean vector,0
+95,Electron,Absorption spectroscopy,0
+97,Physics,Rarefaction,0
+98,Plasticity (physics),Hardness,0
+105,Physics,Wavelength,0
+106,Fracture,Strength of materials,0
+109,Force,Sound intensity,0
+110,Wavelength,Dispersion (optics),0
+111,Temperature,Electrical resistance and conductance,0
+112,Magnetic field,Absorption spectroscopy,0
+113,Field (physics),Planet,0
+116,Energy,Sound intensity,0
+117,Energy level,Wavelength,0
+119,Euclidean vector,Electrostatics,0
+120,Friction,Hooke's law,0
+122,Hertz,Velocity,0
+124,Newton's law of universal gravitation,Gravitational constant,0
+125,Wave,Transverse wave,0
+127,Laser,Doppler effect,0
+128,Acceleration,Non-inertial reference frame,0
+130,Newton's law of universal gravitation,Gravitational field,0
+131,Potential energy,Torque,0
+134,Photoelectric effect,Kinetic energy,0
+136,Energy,Electromotive force,0
+138,Newton's laws of motion,Gravity of Earth,0
+139,Light,Wavelength,0
+140,Force,Plasticity (physics),0
+141,Newton's law of universal gravitation,Kilogram,0
+144,Electrical conductor,Metre,0
+145,Telescope,Reflection (physics),0
+146,Energy,Hertz,0
+147,Wavelength,Interference (wave propagation),0
+148,Magnet,Electric field,0
+149,Work (physics),Joule,0
+151,Photoelectric effect,Hertz,0
+153,Light,Plane mirror,0
+154,Speed,Snell's law,0
+156,Magnification,Refracting telescope,0
+157,Force,Projectile motion,0
+158,Force,Hardness,0
+159,Snell's law,Velocity,0
+160,Velocity,Elastic collision,0
+162,Magnetic field,Energy,0
+163,Joule,Mechanical energy,0
+165,Mass,Electron,0
+168,Electric field,Mass,0
+169,Refractive index,Temperature,0
+170,Field line,Magnetic field,0
+171,Newton's laws of motion,Work (physics),0
+173,Electrostatics,Field line,0
+174,Diffraction,Huygens–Fresnel principle,0
+175,Force,Elasticity (physics),0
+176,Energy,Potential energy,0
+177,Electric field,Coulomb,0
+178,Electric field,Electric current,0
+180,Frequency,Energy,0
+181,Lever,Length,0
+182,Physics,Transmission medium,0
+184,Magnetism,Length,0
+185,Light,Refracting telescope,0
+186,Physics,Shock wave,0
+187,Photoelectric effect,Electromagnetic radiation,0
+189,Magnetic field,Voltage,0
+190,Tension (physics),Mass,0
+191,Interference (wave propagation),Electron,0
+192,Euclidean vector,Force,0
+195,Magnetic field,Dielectric,0
+196,Interference (wave propagation),Huygens–Fresnel principle,0
+201,Distance,Free fall,0
+203,Velocity,Metre,0
+210,Ohm,Coulomb,0
+212,Magnetic field,Torque,0
+213,Physics,Displacement (vector),0
+214,Intensity (physics),Wave,0
+215,Wave,Energy,0
+216,Capacitor,Dielectric,0
+217,Geometrical optics,Snell's law,0
+218,Wave,Doppler effect,0
+220,Power (physics),Intensity (physics),0
+221,Le Sage's theory of gravitation,Energy,0
+223,Hooke's law,Stiffness,0
+225,Physics,Emission spectrum,0
+228,Motion (physics),Energy,0
+230,Magnetic field,Gravity of Earth,0
+231,Electron,Electromagnetic radiation,0
+232,Acceleration,Torque,0
+233,Physics,Electric field,0
+234,Diffraction,Interference (wave propagation),0
+236,Force,Stiffness,0
+237,Distance,Gravity of Earth,0
+239,Electric charge,Capacitance,0
+240,Friction,Mass,0
+242,Free fall,Gravitational field,0
+243,Energy,Laser,0
+244,Electric field,Wavelength,0
+245,Elasticity (physics),Hardness,0
+246,Force,Elastic collision,0
+247,Refraction,Absorption spectroscopy,0
+248,Refraction,Electromagnetic spectrum,0
+250,Newton's laws of motion,Contact force,0
+253,Electron,Distance,0
+255,Collision,Le Sage's theory of gravitation,0
+257,Magnetic field,Potential energy,0
+261,Refractive index,Snell's law,0
+262,Amplitude,Huygens–Fresnel principle,0
+263,Motion (physics),Electrostatics,0
+264,Acceleration,Field (physics),0
+265,Scattering,Velocity,0
+267,Electron,Specular reflection,0
+268,Standing wave,Voltage,0
+270,Diffraction,Dispersion (optics),0
+271,Inelastic collision,Elastic collision,0
+272,Magnetism,Coulomb,0
+277,Wave,Intensity (physics),0
+278,Mass,Distance,0
+280,Displacement (vector),Work (physics),0
+281,Kinetic energy,Mechanical energy,0
+283,Velocity,Wave,0
+284,Mirror image,Distance,0
+285,Gravity,Gravitational acceleration,0
+287,Wave,Elasticity (physics),0
+289,Speed,Shock wave,0
+291,Speed,Electromagnetic spectrum,0
+292,Electron,Electrostatics,0
+294,Euclidean vector,Gravitational acceleration,0
+295,Frequency,Doppler effect,0
+296,Fracture,Elasticity (physics),0
+297,Temperature,Kilogram,0
+298,Distance,Elastic collision,0
+300,Physics,Doppler effect,0
+303,Displacement (vector),Projectile motion,0
+304,Electric potential,Capacitance,0
+305,Motion (physics),Newton's laws of motion,0
+306,Speed,Rarefaction,0
+307,Pigment,Wavelength,0
+310,Interference (wave propagation),Crest (physics),0
+311,Wave,Electromagnetic spectrum,0
+313,Motion (physics),Elastic collision,0
+315,Work (physics),Electrostatics,0
+316,Force,Magnet,0
+317,Force,Torque,0
+319,Motion (physics),Inertial frame of reference,0
+320,Capacitance,Distance,0
+321,Coulomb's law,Emission spectrum,0
+322,Position (vector),Free fall,0
+323,Deformation (engineering),Creep (deformation),0
+325,Electrical resistance and conductance,Energy,0
+326,Motion (physics),Mass,0
+327,Magnet,Euclidean vector,0
+328,Voltage,Electric current,0
+332,Dielectric,Velocity,0
+333,Velocity,Speed,0
+334,Energy,Temperature,0
+335,Euclidean vector,Gravity of Earth,0
+339,Energy,Dielectric,0
+341,Energy,Equations of motion,0
+342,Physics,Contact force,0
+343,Energy,Transverse wave,0
+344,Magnet,Mass,0
+345,Speed,Gravity of Earth,0
+346,Energy,Electrostatics,0
+349,Mirror image,Length,0
+350,Diffraction,Specular reflection,0
+353,Motion (physics),Temperature,0
+354,Photoelectric effect,Color,0
+355,Deformation (engineering),Hardness,0
+357,Electric potential energy,Coulomb,0
+358,Specular reflection,Refraction,0
+360,Lever,Energy,0
+361,Electromagnetic radiation,Laser,0
+364,Velocity,Equations of motion,0
+365,Electron,Electrical conductor,0
+366,Interference (wave propagation),Ray (optics),0
+367,Energy,Energy level,0
+368,Refraction,Length,0
+376,Telescope,Optical microscope,0
+377,Stiffness,Hooke's law,0
+381,Physics,Electromagnetic spectrum,0
+382,Electron,Potential energy,0
+383,Torque,Speed,0
+388,Force,Emission spectrum,0
+389,Hooke's law,Mass,0
+390,Sonic boom,Hertz,0
+392,Displacement (vector),Free fall,0
+393,Electron,Le Sage's theory of gravitation,0
+394,Force,Electrostatics,0
+395,Elasticity (physics),Energy,0
+396,Energy,Emission spectrum,0
+400,Frequency,Interference (wave propagation),0
+402,Color,Dispersion (optics),0
+406,Motion (physics),Gravity of Earth,0
+408,Magnetic field,Temperature,0
+409,Tension (physics),Compression (physics),0
+413,Distance,Lever,0
+414,Force,Length,0
+415,Physics,Refractive index,0
+420,Torque,Energy,0
+421,Electrical resistance and conductance,Metre,0
+422,Field (physics),Electrostatics,0
+423,Gravity of Earth,Free fall,0
+424,Position (vector),Electric potential,0
+425,Diffraction,Transverse wave,0
+426,Dielectric,Reflection (physics),0
+427,Interference (wave propagation),Energy,0
+428,Force,Inelastic collision,0
+431,Magnetism,Field (physics),0
+432,Friction,Deformation (engineering),0
+433,Temperature,Velocity,0
+434,Elasticity (physics),Strength of materials,0
+438,Physics,Motion graphs and derivatives,0
+441,Interference (wave propagation),Standing wave,0
+442,Physics,Elastic collision,0
+443,Speed,Inelastic collision,0
+444,Energy,Mirror image,0
+445,Wave,Dispersion (optics),0
+446,Distance,Physics,0
+447,Force,Fatigue (material),0
+448,Mass,Collision,0
+452,Electric field,Wave,0
+454,Gravity of Earth,Newton's law of universal gravitation,0
+455,Refraction,Snell's law,0
+457,Sound intensity,Velocity,0
+460,Magnification,Virtual image,0
+461,Motion (physics),Force,0
+463,Mass,Gravity of Earth,0
+465,Transmission medium,Electromagnetic spectrum,0
+467,Electric field,Electric potential,0
+468,Position (vector),Electric potential energy,0
+469,Hertz,Kilogram,0
+470,Electron,Field (physics),0
+471,Joule,Velocity,0
+472,Insulator (electricity),Dielectric,0
+473,Mass,Velocity,0
+474,Force,Le Sage's theory of gravitation,0
+475,Force,Direction (geometry),0
+480,Speed,Dielectric,0
+481,Magnet,Force,0
+482,Physics,Energy,0
+483,Mass,Absorption spectroscopy,0
+485,Joule,Torque,0
+489,Velocity,Mechanical energy,0
+490,Amplitude,Electromagnetic spectrum,0
+492,Electron,Dielectric,0
+495,Voltage,Power (physics),0
+496,Equations of motion,Length,0
+499,Amplitude,Electrical resistance and conductance,0
+500,Distance,Equations of motion,0
+501,Absorption spectroscopy,Electromagnetic spectrum,0
+503,Motion (physics),Power (physics),0
+505,Wavelength,Doppler effect,0
+506,Wave,Length,0
+510,Voltage,Coulomb,0
+511,Friction,Normal force,0
+512,Physics,Hardness,0
+513,Euclidean vector,Inertial frame of reference,0
+514,Voltage,Electrical resistance and conductance,0
+517,Electromagnetic radiation,Dispersion (optics),0
+522,Specular reflection,Mirror image,0
+523,Electromagnetic spectrum,Reflection (physics),0
+525,Electric potential,Gravitational field,0
+526,Coulomb's law,Electric potential energy,0
+527,Magnet,Electromagnetic spectrum,0
+528,Plasticity (physics),Hooke's law,0
+529,Snell's law,Total internal reflection,0
+530,Physics,Diffraction,0
+531,Electromotive force,Joule,0
+533,Virtual image,Plane mirror,0
+535,Magnetic field,Coulomb,0
+536,Sonic boom,Mass,0
+538,Equations of motion,Torque,0
+541,Angle of incidence,Reflection (physics),0
+542,Intensity (physics),Sound intensity,0
+544,Electric field,Electric potential energy,0
+545,Magnetic field,Hertz,0
+547,Capacitance,Energy,0
+548,Wave,Dielectric,0
+549,Force,Kilogram,0
+550,Shock wave,Force,0
+551,Interference (wave propagation),Electromagnetic spectrum,0
+552,Virtual image,Optical microscope,0
+553,Motion (physics),Velocity,0
+555,Hooke's law,Distance,0
+557,Field (physics),Emission spectrum,0
+558,Refractive index,Wavelength,0
+559,Le Sage's theory of gravitation,Velocity,0
+561,Electron,Dispersion (optics),0
+564,Acceleration,Electromagnetic radiation,0
+566,Magnet,Length,0
+568,Euclidean vector,Free fall,0
+569,Intensity (physics),Interference (wave propagation),0
+570,Wave,Le Sage's theory of gravitation,0
+571,Voltage,Electric potential,0
+572,Newton's laws of motion,Newton's law of universal gravitation,0
+573,Acceleration,Direction (geometry),0
+574,Photoelectric effect,Voltage,0
+576,Energy,Absorption spectroscopy,0
+577,Physics,Electric potential,0
+579,Inelastic collision,Velocity,0
+580,Speed,Mass,0
+586,Power (physics),Velocity,0
+587,Gravity of Earth,Kilogram,0
+588,Hooke's law,Wave,0
+589,Acceleration,Newton's law of universal gravitation,0
+590,Kinetic energy,Force,0
+591,Magnet,Electrical resistance and conductance,0
+592,Energy,Projectile motion,0
+593,Motion (physics),Magnetism,0
+594,Torque,Distance,0
+597,Displacement (vector),Velocity,0
+598,Magnet,Field (physics),0
+599,Voltage,Voltmeter,0
+600,Diffraction,Optical microscope,0
+601,Energy,Electric potential energy,0
+602,Amplitude,Power (physics),0
+603,Laser,Power (physics),0
+604,Distance,Electric potential energy,0
+605,Le Sage's theory of gravitation,Laser,0
+606,Torque,Length,0
+608,Electroscope,Capacitance,0
+611,Photoelectric effect,Electric field,0
+613,Physics,Non-inertial reference frame,0
+614,Wave,Interference (wave propagation),0
+620,Specular reflection,Wavelength,0
+621,Electromagnetic radiation,Metre,0
+624,Collision,Planet,0
+625,Gravitational acceleration,Inertial frame of reference,0
+626,Friction,Velocity,0
+628,Electron,Reflection (physics),0
+629,Temperature,Magnetism,0
+630,Electron,Kilogram,0
+631,Potential energy,Electric potential energy,0
+632,Free fall,Metre,0
+633,Electromotive force,Voltmeter,0
+634,Friction,Coulomb,0
+636,Deformation (engineering),Fatigue (material),0
+638,Work (physics),Planet,0
+639,Newton's law of universal gravitation,Velocity,0
+642,Free fall,Planet,0
+643,Telescope,Planet,0
+645,Position (vector),Potential energy,0
+649,Speed,Work (physics),0
+652,Displacement (vector),Electrostatics,0
+654,Voltage,Electric field,0
+657,Crest (physics),Frequency,0
+658,Dielectric,Frequency,0
+659,Electric potential,Electroscope,0
+660,Shock wave,Magnetic field,0
+661,Hooke's law,Dielectric,0
+662,Physics,Motion (physics),0
+663,Newton's law of universal gravitation,Free fall,0
+664,Mass,Elastic collision,0
+665,Electron,Electromagnetic spectrum,0
+667,Gravity,Gravitational field,0
+668,Light,Reflection (physics),0
+669,Magnetism,Magnetic field,0
+671,Physics,Lever,0
+672,Resonance (particle physics),Scattering,0
+673,Energy,Tension (physics),0
+674,Kinetic energy,Elastic collision,0
+675,Wavelength,Scattering,0
+676,Capacitance,Length,0
+677,Energy level,Absorption spectroscopy,0
+678,Acceleration,Photoelectric effect,0
+679,Strength of materials,Hardness,0
+680,Wave,Force,0
+681,Electron,Contact force,0
+682,Friction,Electron,0
+684,Distance,Electric potential,0
+686,Magnetism,Le Sage's theory of gravitation,0
+688,Ray (optics),Snell's law,0
+689,Light,Mirror image,0
+694,Hooke's law,Torque,0
+697,Angle of incidence,Total internal reflection,0
+702,Wavelength,Snell's law,0
+703,Euclidean vector,Position (vector),0
+708,Electron,Electromotive force,0
+709,Hardness,Kilogram,0
+710,Electrical conductor,Electrical resistance and conductance,0
+713,Newton's law of universal gravitation,Electric field,0
+716,Sound intensity,Distance,0
+720,Deformation (engineering),Plasticity (physics),0
+721,Tangential and normal components,Euclidean vector,0
+722,Magnetic field,Mass,0
+723,Force,Tension (physics),0
+724,Electron,Field line,0
+725,Light,Photoelectric effect,0
+726,Speed,Magnetism,0
+727,Energy,Elastic collision,0
+728,Friction,Temperature,0
+730,Capacitor,Insulator (electricity),0
+732,Electric current,Electromagnetic radiation,0
+733,Scalar (mathematics),Distance,0
+734,Fracture,Hardness,0
+736,Magnetic field,Wave,0
+739,Friction,Torque,0
+741,Amplitude,Standing wave,0
+743,Physics,Electromagnetic radiation,0
+745,Coulomb's law,Coulomb,0
+746,Dielectric,Electromagnetic spectrum,0
+750,Energy,Creep (deformation),0
+753,Speed,Magnet,0
+755,Frequency,Hooke's law,0
+756,Physics,Electrical conductor,0
+758,Electroscope,Coulomb's law,0
+759,Energy,Mass,0
+762,Speed,Equations of motion,0
+764,Wavelength,Speed,0
+765,Motion (physics),Mechanical energy,0
+767,Wavelength,Absorption spectroscopy,0
+768,Mass,Wavelength,0
+769,Motion (physics),Projectile motion,0
+771,Energy,Dispersion (optics),0
+772,Physics,Friction,0
+775,Speed,Elastic collision,0
+779,Ohm,Velocity,0
+780,Sonic boom,Speed,0
+781,Gravity,Gravitational constant,0
+782,Distance,Gravitational constant,0
+785,Force,Gravity of Earth,0
+786,Mass,Kilogram,0
+787,Acceleration,Free fall,0
+789,Electron,Emission spectrum,0
+790,Electron,Capacitance,0
+792,Force,Lever,0
+793,Displacement (vector),Acceleration,0
+795,Scalar (mathematics),Euclidean vector,0
+797,Magnetic field,Electromagnetic spectrum,0
+799,Interference (wave propagation),Geometrical optics,0
+800,Amplitude,Frequency,0
+804,Voltage,Ohm,0
+805,Free fall,Normal force,0
+806,Plane mirror,Reflection (physics),0
+807,Physics,Transverse wave,0
+808,Work (physics),Resultant force,0
+810,Physics,Dielectric,0
+812,Emission spectrum,Collision,0
+813,Electromotive force,Electrical resistance and conductance,0
+814,Electron,Joule,0
+816,Wave,Refracting telescope,0
+817,Displacement (vector),Equations of motion,0
+819,Motion (physics),Distance,0
+820,Field line,Coulomb's law,0
+822,Plasticity (physics),Elasticity (physics),0
+823,Refraction,Ray (optics),0
+824,Force,Motion (physics),0
+828,Creep (deformation),Temperature,0
+831,Scattering,Collision,0
+832,Equations of motion,Gravitational field,0
+833,Work (physics),Kinetic energy,0
+834,Physics,Le Sage's theory of gravitation,0
+835,Refraction,Reflection (physics),0
+836,Kinetic energy,Velocity,0
+837,Energy,Field (physics),0
+838,Electron,Motion (physics),0
+839,Speed,Field (physics),0
+840,Field (physics),Magnetic field,0
+841,Speed,Refractive index,0
+842,Ohm,Kilogram,0
+846,Hooke's law,Temperature,0
+847,Euclidean vector,Projectile motion,0
+849,Euclidean vector,Motion graphs and derivatives,0
+850,Physics,Relative velocity,0
+853,Fracture,Magnet,0
+854,Motion (physics),Speed,0
+857,Gravity,Acceleration,0
+858,Mass,Gravitational acceleration,0
+863,Force,Gravity,0
+866,Wave,Emission spectrum,0
+868,Joule,Potential energy,0
+869,Wave,Velocity,0
+871,Force,Normal force,0
+872,Electric current,Series and parallel circuits,0
+874,Lever,Power (physics),0
+876,Frame of reference,Inertial frame of reference,0
+877,Refraction,Refracting telescope,0
+879,Intensity (physics),Refractive index,0
+880,Electrical polarity,Force,0
+881,Electron,Scattering,0
+883,Force,Electric current,0
+888,Ray (optics),Total internal reflection,0
+889,Wave,Snell's law,0
+891,Wave,Transmission medium,0
+893,Acceleration,Projectile motion,0
+894,Speed,Dispersion (optics),0
+895,Light,Dispersion (optics),0
+897,Work (physics),Power (physics),0
+898,Mass,Projectile motion,0
+899,Electrical conductor,Insulator (electricity),0
+900,Electric potential energy,Electrostatics,0
+901,Friction,Potential energy,0
+903,Electric field,Absorption spectroscopy,0
+904,Physics,Refraction,0
+905,Relative velocity,Elastic collision,0
+907,Physics,Creep (deformation),0
+908,Geometrical optics,Refractive index,0
+909,Magnetic field,Planet,0
+910,Electromagnetic radiation,Le Sage's theory of gravitation,0
+911,Newton's law of universal gravitation,Energy,0
+913,Snell's law,Electromagnetic radiation,0
+915,Acceleration,Tension (physics),0
+916,Force,Strength of materials,0
+918,Capacitance,Planet,0
+919,Magnetic field,Metre,0
+922,Potential energy,Velocity,0
+925,Electrical resistance and conductance,Length,0
+926,Interference (wave propagation),Laser,0
+927,Energy,Electron,0
+928,Wave,Hertz,0
+929,Euclidean vector,Field (physics),0
+930,Projectile motion,Free fall,0
+931,Photoelectric effect,Amplitude,0
+935,Magnet,Temperature,0
+936,Elasticity (physics),Temperature,0
+937,Wave,Crest (physics),0
+938,Capacitance,Potential energy,0
+939,Rarefaction,Mass,0
+940,Collision,Velocity,0
+941,Light,Optical microscope,0
+942,Force,Power (physics),0
+943,Potential energy,Gravitational field,0
+944,Speed,Position (vector),0
+945,Physics,Plasticity (physics),0
+947,Hooke's law,Kilogram,0
+949,Inertial frame of reference,Force,0
+950,Torque,Velocity,0
+951,Friction,Work (physics),0
+953,Diffraction,Refractive index,0
+954,Motion (physics),Doppler effect,0
+956,Refractive index,Electromagnetic radiation,0
+957,Ohm,Metre,0
+959,Magnetic field,Electric field,0
+960,Distance,Le Sage's theory of gravitation,0
+962,Magnetic field,Mechanical energy,0
+964,Physics,Sound intensity,0
+965,Mass,Field (physics),0
+966,Frequency,Wavelength,0
+967,Position (vector),Mass,0
+971,Interference (wave propagation),Kilogram,0
+972,Wave,Rarefaction,0
+973,Amplitude,Electric field,0
+974,Angle of incidence,Specular reflection,0
+976,Position (vector),Displacement (vector),0
+977,Energy,Photoelectric effect,0
+979,Position (vector),Distance,0
+980,Hooke's law,Creep (deformation),0
+981,Absorption spectroscopy,Length,0
+982,Kinetic energy,Inelastic collision,0
+983,Velocity,Gravitational acceleration,0
+984,Inertial frame of reference,Elastic collision,0
+985,Physics,Frame of reference,0
+987,Hooke's law,Amplitude,0
+988,Coulomb's law,Electric potential,0
+990,Ohm's law,Series and parallel circuits,0
+991,Mass,Mechanical energy,0
+992,Field line,Mass,0
+993,Telescope,Electromagnetic spectrum,0
+995,Refractive index,Optical microscope,0
+997,Mass,Free fall,0
+999,Displacement (vector),Motion graphs and derivatives,0
+1001,Motion (physics),Relative velocity,0
+1002,Electromagnetic radiation,Voltage,0
+1004,Wave,Wavelength,0
+1006,Temperature,Force,0
+1009,Light,Electromagnetic spectrum,0
+1010,Shock wave,Temperature,0
+1011,Physics,Potential energy,0
+1012,Refractive index,Transverse wave,0
+1013,Refractive index,Real image,0
+1014,Frequency,Absorption spectroscopy,0
+1016,Wave,Gravitational field,0
+1021,Contact force,Friction,0
+1024,Sonic boom,Shock wave,0
+1025,Physics,Photoelectric effect,0
+1026,Specular reflection,Distance,0
+1029,Energy,Distance,0
+1030,Energy,Gravitational field,0
+1031,Energy,Refraction,0
+1034,Non-inertial reference frame,Force,0
+1037,Euclidean vector,Scalar (mathematics),0
+1038,Voltage,Energy,0
+1039,Coulomb's law,Electromagnetic radiation,0
+1040,Electric field,Distance,0
+1041,Speed,Temperature,0
+1043,Speed,Relative velocity,0
+1045,Electromagnetic radiation,Energy level,0
+1047,Tension (physics),Potential energy,0
+1048,Le Sage's theory of gravitation,Planet,0
+1049,Voltage,Ohm's law,0
+1050,Lever,Work (physics),0
+1051,Work (physics),Mechanical energy,0
+1052,Work (physics),Length,0
+1054,Hooke's law,Tension (physics),0
+1055,Field line,Gravitational field,0
+1057,Photoelectric effect,Electromagnetic spectrum,0
+1058,Light,Total internal reflection,0
+1060,Electrostatics,Coulomb,0
+1061,Electrical conductor,Capacitance,0
+1063,Force,Coulomb,0
+1065,Wave,Specular reflection,0
+1067,Speed,Doppler effect,0
+1068,Direction (geometry),Distance,0
+1069,Physics,Electrostatics,0
+1071,Wavelength,Emission spectrum,0
+1072,Magnetic field,Equations of motion,0
+1073,Frequency,Emission spectrum,0
+1074,Elasticity (physics),Potential energy,0
+1076,Le Sage's theory of gravitation,Temperature,0
+1077,Laser,Physics,0
+1078,Physics,Normal force,0
+1079,Electron,Velocity,0
+1080,Direction (geometry),Euclidean vector,0
+1081,Electric current,Insulator (electricity),0
+1082,Physics,Equations of motion,0
+1083,Acceleration,Normal force,0
+1085,Motion (physics),Electric potential,0
+1086,Work (physics),Kilogram,0
+1088,Potential energy,Kinetic energy,0
+1089,Physics,Newton's laws of motion,0
+1091,Capacitance,Force,0
+1092,Speed,Mechanical energy,0
+1094,Scattering,Energy,0
+1096,Physics,Strength of materials,0
+1097,Interference (wave propagation),Length,0
+1098,Fatigue (material),Strength of materials,0
+1099,Lever,Distance,0
+1102,Distance,Work (physics),0
+1103,Refraction,Refractive index,0
+1104,Wavelength,Amplitude,0
+1105,Elasticity (physics),Fatigue (material),0
+1107,Potential energy,Elastic collision,0
+1109,Newton's law of universal gravitation,Coulomb's law,0
+1110,Joule,Voltage,0
+1112,Electromagnetic spectrum,Length,0
+1113,Electric potential,Mass,0
+1115,Pigment,Subtractive color,0
+1118,Collision,Distance,0
+1119,Wave,Speed,0
+1121,Electric potential,Electron,0
+1122,Mass,Planet,0
+1124,Refractive index,Length,0
+1130,Wave,Sonic boom,0
+1131,Diffraction,Electron,0
+1133,Field line,Capacitance,0
+1134,Displacement (vector),Electric potential energy,0
+1137,Mass,Coulomb,0
+1139,Magnetism,Energy,0
+1140,Refractive index,Energy,0
+1142,Position (vector),Motion graphs and derivatives,0
+1143,Gravity,Normal force,0
+1145,Newton's laws of motion,Kilogram,0
+1147,Physics,Inelastic collision,0
+1149,Physics,Gravitational constant,0
+1151,Friction,Mechanical energy,0
+1152,Motion (physics),Gravity,0
+1156,Refractive index,Total internal reflection,0
+1158,Wave,Equations of motion,0
+1160,Newton's law of universal gravitation,Mass,0
+1163,Electron,Energy,0
+1164,Electromagnetic radiation,Electromagnetic spectrum,0
+1165,Acceleration,Kilogram,0
+1166,Physics,Magnetic field,0
+1167,Motion (physics),Field (physics),0
+1168,Acceleration,Gravitational acceleration,0
+1169,Acceleration,Magnetic field,0
+1170,Plane mirror,Ray (optics),0
+1171,Motion (physics),Electric potential energy,0
+1173,Electron,Photoelectric effect,0
+1175,Gravitational acceleration,Potential energy,0
+1176,Non-inertial reference frame,Inertial frame of reference,0
+1177,Light,Metre,0
+1178,Force,Equations of motion,0
+1180,Huygens–Fresnel principle,Wavelength,0
+1183,Energy,Hooke's law,0
+1185,Friction,Free body diagram,0
+1186,Electron,Inelastic collision,0
+1187,Emission spectrum,Mass,0
+1190,Dispersion (optics),Velocity,0
+1194,Euclidean vector,Equations of motion,0
+1197,Gravity of Earth,Non-inertial reference frame,0
+1198,Force,Electric potential,0
+1199,Motion (physics),Refractive index,0
+1200,Elastic collision,Potential energy,0
+1201,Voltage,Electrostatics,0
+1202,Magnetic field,Electrostatics,0
+1203,Electron,Electrical resistance and conductance,0
+1211,Speed,Gravitational field,0
+1214,Physics,Sonic boom,0
+1216,Dielectric,Torque,0
+1217,Friction,Lever,0
+1218,Refraction,Diffraction,0
+1219,Physics,Dispersion (optics),0
+1220,Equations of motion,Gravity,0
+1222,Electrical resistance and conductance,Joule,0
+1223,Plane mirror,Mirror image,0
+1224,Scalar multiplication,Position (vector),0
+1225,Field (physics),Electric field,0
+1226,Ohm's law,Magnetic field,0
+1229,Potential energy,Length,0
+1231,Euclidean vector,Velocity,0
+1232,Hertz,Electromagnetic radiation,0
+1234,Electron,Electrical polarity,0
+1236,Position (vector),Work (physics),0
+1237,Electromagnetic radiation,Absorption spectroscopy,0
+1239,Interference (wave propagation),Optical microscope,0
+1240,Light,Geometrical optics,0
+1246,Distance,Projectile motion,0
+1247,Photoelectric effect,Length,0
+1248,Photoelectric effect,Frequency,0
+1250,Acceleration,Friction,0
+1254,Physics,Mirror image,0
+1256,Distance,Shock wave,0
+1257,Length,Hooke's law,0
+1258,Electron,Optical microscope,0
+1259,Wave,Potential energy,0
+1262,Electric field,Dielectric,0
+1264,Power (physics),Length,0
+1265,Speed,Displacement (vector),0
+1267,Laser,Dispersion (optics),0
+1268,Acceleration,Newton's laws of motion,0
+1270,Angle of incidence,Refractive index,0
+1271,Coulomb's law,Electromotive force,0
+1273,Coulomb's law,Field (physics),0
+1274,Light,Ray (optics),0
+1277,Hooke's law,Electric field,0
+1278,Distance,Gravitational acceleration,0
+1279,Voltage,Free fall,0
+1282,Force,Metre,0
+1283,Wave,Field (physics),0
+1284,Refraction,Velocity,0
+1286,Refracting telescope,Gravity,0
+1287,Sound,Sonic boom,0
+1288,Lever,Velocity,0
+1289,Electron,Collision,0
+1290,Optical microscope,Wavelength,0
+1291,Coulomb,Electromotive force,0
+1293,Magnet,Wave,0
+1294,Interference (wave propagation),Distance,0
+1295,Magnetic field,Tangential and normal components,0
+1300,Friction,Energy,0
+1301,Joule,Mass,0
+1304,Field (physics),Electromagnetic radiation,0
+1307,Dielectric,Distance,0
+1308,Electron,Telescope,0
+1309,Voltmeter,Electroscope,0
+1310,Euclidean vector,Mechanical energy,0
+1311,Electron,Coulomb,0
+1312,Hardness,Crystallinity,0
+1313,Electron,Electric current,0
+1314,Euclidean vector,Physics,0
+1316,Euclidean vector,Potential energy,0
+1321,Energy level,Diffraction,0
+1322,Electrical resistance and conductance,Ohmmeter,0
+1326,Work (physics),Metre,0
+1327,Electrical conductor,Electric field,0
+1328,Voltage,Electromagnetic spectrum,0
+1330,Voltmeter,Amplitude,0
+1331,Snell's law,Refracting telescope,0
+1332,Distance,Contact force,0
+1335,Voltage,Equations of motion,0
+1338,Tension (physics),Contact force,0
+1339,Euclidean vector,Displacement (vector),0
+1340,Electric current,Power (physics),0
+1341,Scattering,Laser,0
+1344,Magnification,Optical microscope,0
+1346,Electromagnetic radiation,Diffraction,0
+1347,Electron,Physics,0
+1348,Geometrical optics,Wavelength,0
+1349,Intensity (physics),Electric field,0
+1351,Plane mirror,Geometrical optics,0
+1354,Magnetism,Temperature,0
+1357,Physics,Force,0
+1358,Crest (physics),Amplitude,0
+1359,Electric current,Emission spectrum,0
+1367,Relative velocity,Inertial frame of reference,0
+1368,Force,Acceleration,0
+1369,Mass,Gravity,0
+1373,Telescope,Refracting telescope,0
+1374,Euclidean vector,Electric potential,0
+1375,Energy,Kilogram,0
+1380,Photoelectric effect,Force,0
+1381,Field (physics),Electromagnetic spectrum,0
+1382,Physics,Acceleration,0
+1383,Ohm,Power (physics),0
+1384,Friction,Collision,0
+1385,Work (physics),Electric potential energy,0
+1386,Physics,Speed,0
+1387,Sonic boom,Temperature,0
+1388,Magnetic field,Refractive index,0
+1389,Dielectric,Refractive index,0
+1391,Field (physics),Velocity,0
+1392,Gravitational acceleration,Gravitational field,0
+1393,Euclidean vector,Electric potential energy,0
+1394,Electron,Wavelength,0
+1395,Magnet,Compass,0
+1396,Magnet,Distance,0
+1399,Potential energy,Electric potential,0
+1401,Energy,Reflection (physics),0
+1402,Potential energy,Kilogram,0
+1403,Refraction,Frequency,0
+1404,Motion (physics),Work (physics),0
+1405,Velocity,Force,0
+1406,Force,Electromagnetic spectrum,0
+1408,Acceleration,Sonic boom,0
+1409,Photoelectric effect,Laser,0
+1410,Electron,Force,0
+1411,Electrical resistance and conductance,Series and parallel circuits,0
+1412,Force,Free fall,0
+1413,Hooke's law,Metre,0
+1414,Interference (wave propagation),Refractive index,0
+1415,Work (physics),Electric potential,0
+1418,Speed,Euclidean vector,0
+1421,Magnetic field,Electromagnetic radiation,0
+1423,Friction,Euclidean vector,0
+1424,Position (vector),Gravitational acceleration,0
+1425,Wave,Shock wave,0
+1426,Electron,Temperature,0
+1428,Refraction,Transmission medium,0
+1430,Transverse wave,Electromagnetic spectrum,0
+1432,Hertz,Musical tone,0
+1433,Refraction,Wavelength,0
+1436,Electron,Laser,0
+1437,Energy,Electromagnetic spectrum,0
+1444,Frequency,Hertz,0
+1445,Electric field,Electrostatics,0
+1449,Magnetic field,Electron,0
+1453,Power (physics),Sound intensity,0
+1454,Ammeter,Metre,0
+1455,Energy level,Frequency,0
+1457,Mass,Torque,0
+1466,Refractive index,Metre,0
+1469,Electric field,Electromotive force,0
+1470,Force,Wave,0
+1471,Force,Planet,0
+1472,Force,Gravitational field,0
+1473,Interference (wave propagation),Telescope,0
+1474,Velocity,Acceleration,0
+1475,Light,Virtual image,0
+1476,Acceleration,Frame of reference,0
+1479,Laser,Optical microscope,0
+1480,Field (physics),Electric potential energy,0
+1481,Speed,Free fall,0
+1482,Energy,Velocity,0
+1483,Speed,Le Sage's theory of gravitation,0
+1484,Frame of reference,Force,0
+1485,Electron,Light,0
+1486,Force,Intensity (physics),0
+1487,Force,Field (physics),0
+1489,Specular reflection,Plane mirror,0
+1490,Insulator (electricity),Electrostatics,0
+1492,Intensity (physics),Electromagnetic radiation,0
+1493,Electrical resistance and conductance,Distance,0
+1494,Shock wave,Refraction,0
+1495,Rarefaction,Transmission medium,0
+1497,Force,Electric potential energy,0
+1503,Pigment,Light,0
+1504,Force,Work (physics),0
+1505,Motion (physics),Non-inertial reference frame,0
+1506,Ray (optics),Virtual image,0
+1507,Color,Pigment,0
+1509,Sonic boom,Length,0
+1518,Physics,Gravity of Earth,0
+1520,Acceleration,Electron,0
+1522,Motion (physics),Gravitational acceleration,0
+1523,Mass,Normal force,0
+1524,Electromotive force,Ohm's law,0
+1525,Voltmeter,Electric potential,0
+1527,Dispersion (optics),Wavelength,0
+1529,Fracture,Light,0
+1530,Friction,Kinetic energy,0
+1531,Transverse wave,Ray (optics),0
+1536,Physics,Torque,0
+1540,Motion (physics),Free fall,0
+1542,Motion (physics),Frame of reference,0
+1543,Light,Inertial frame of reference,0
+1546,Dispersion (optics),Length,0
+1549,Force,Electromagnetic radiation,0
+1550,Velocity,Motion graphs and derivatives,0
+1552,Intensity (physics),Photoelectric effect,0
+1553,Frequency,Electromagnetic spectrum,0
+1554,Joule,Kinetic energy,0
+1559,Euclidean vector,Normal force,0
+1561,Friction,Gravity,0
+1562,Electron,Coulomb's law,0
+1563,Electric field,Magnetism,0
+1564,Reflection (physics),Mirror image,0
+1565,Hooke's law,Lever,0
+1566,Electric potential,Kilogram,0
+1568,Frame of reference,Mass,0
+1570,Euclidean vector,Torque,0
+1571,Motion (physics),Le Sage's theory of gravitation,0
+1572,Telescope,Mass,0
+1573,Laser,Diffraction,0
+1576,Refractive index,Force,0
+1580,Displacement (vector),Stiffness,0
+1584,Inelastic collision,Friction,0
+1585,Velocity,Projectile motion,0
+1586,Reflection (physics),Diffraction,0
+1587,Scattering,Light,0
+1591,Energy,Le Sage's theory of gravitation,0
+1593,Electric field,Emission spectrum,0
+1595,Potential energy,Mechanical energy,0
+1596,Electrical conductor,Electromagnetic radiation,0
+1597,Position (vector),Projectile motion,0
+1598,Gravity of Earth,Potential energy,0
+1599,Friction,Speed,0
+1600,Wave,Refraction,0
+1602,Friction,Dielectric,0
+1603,Emission spectrum,Temperature,0
+1611,Frame of reference,Non-inertial reference frame,0
+1613,Elasticity (physics),Stiffness,0
+1617,Electron,Wave,0
+1618,Work (physics),Torque,0
+1621,Displacement (vector),Gravity of Earth,0
+1622,Shock wave,Mass,0
+1624,Magnification,Reflection (physics),0
+1625,Mechanical energy,Collision,0
+1626,Acceleration,Inertial frame of reference,0
+1627,Magnetism,Coulomb's law,0
+1628,Position (vector),Gravity of Earth,0
+1629,Electron,Hertz,0
+1633,Distance,Snell's law,0
+1635,Amplitude,Snell's law,0
+1636,Speed,Normal force,0
+1637,Scalar (mathematics),Scalar multiplication,0
+1640,Electron,Angle of incidence,0
+1643,Temperature,Kinetic energy,0
+1647,Interference (wave propagation),Velocity,0
+1648,Frequency,Wave,0
+1649,Joule,Capacitance,0
+1650,Electric potential energy,Electron,0
+1652,Magnetism,Compass,0
+1653,Gravity,Free fall,0
+1654,Angle of incidence,Snell's law,0
+1655,Reflection (physics),Plane mirror,0
+1657,Magnet,Voltage,0
+1659,Distance,Inertial frame of reference,0
+1660,Acceleration,Gravitational field,0
+1663,Physics,Gravitational field,0
+1664,Real image,Virtual image,0
+1666,Electric potential energy,Capacitance,0
+1667,Acceleration,Equations of motion,0
+1668,Refraction,Temperature,0
+1669,Force,Magnetic field,0
+1670,Intensity (physics),Distance,0
+1672,Position (vector),Equations of motion,0
+1675,Physics,Deformation (engineering),0
+1676,Acceleration,Hooke's law,0
+1677,Wavelength,Refractive index,0
+1678,Field (physics),Distance,0
+1679,Light,Snell's law,0
+1681,Friction,Length,0
+1682,Elastic collision,Inertial frame of reference,0
+1683,Joule,Force,0
+1686,Joule,Ohm,0
+1687,Distance,Newton's law of universal gravitation,0
+1688,Telescope,Wavelength,0
+1690,Kinetic energy,Collision,0
+1691,Physics,Gravity,0
+1692,Electric current,Equations of motion,0
+1694,Temperature,Electromagnetic spectrum,0
+1695,Amplitude,Equations of motion,0
+1697,Refraction,Total internal reflection,0
+1699,Displacement (vector),Length,0
+1701,Distance,Gravitational field,0
+1702,Angle of incidence,Refraction,0
+1704,Reflection (physics),Specular reflection,0
+1709,Ohm's law,Electrical resistance and conductance,0
+1711,Light,Electromagnetic radiation,0
+1714,Hertz,Electromagnetic spectrum,0
+1715,Motion (physics),Equations of motion,0
+1716,Mass,Gravitational field,0
+1717,Electric field,Euclidean vector,0
+1719,Magnetic field,Euclidean vector,0
+1720,Wave,Distance,0
+1724,Newton's law of universal gravitation,Telescope,0
+1726,Distance,Relative velocity,0
+1728,Displacement (vector),Electric potential,0
+1729,Physics,Electromotive force,0
+1733,Magnet,Energy,0
+1734,Fracture,Creep (deformation),0
+1736,Insulator (electricity),Velocity,0
+1737,Inertial frame of reference,Length,0
+1741,Inelastic collision,Le Sage's theory of gravitation,0
+1742,Energy,Force,0
+1746,Lever,Torque,0
+1748,Dispersion (optics),Distance,0
+1749,Electrical conductor,Dielectric,0
+1750,Gravity,Projectile motion,0
+1751,Mass,Inertial frame of reference,0
+1759,Euclidean vector,Acceleration,0
+1760,Magnet,Electric current,0
+1762,Distance,Mechanical energy,0
+1763,Magnet,Emission spectrum,0
+1764,Tension (physics),Length,0
+1766,Magnetism,Velocity,0
+1767,Elasticity (physics),Field (physics),0
+1768,Force,Deformation (engineering),0
+1769,Work (physics),Mass,0
+1770,Magnetic field,Distance,0
+1772,Ray (optics),Geometrical optics,0
+1774,Physics,Kinetic energy,0
+1775,Wave,Diffraction,0
+1777,Motion (physics),Snell's law,0
+1778,Gravitational acceleration,Free fall,0
+1780,Wavelength,Electromagnetic spectrum,0
+1781,Wavelength,Light,0
+1782,Frequency,Standing wave,0
+1785,Physics,Energy level,0
+1786,Dielectric,Magnet,0
+1787,Gravity,Le Sage's theory of gravitation,0
+1788,Motion (physics),Planet,0
+1789,Electromagnetic radiation,Power (physics),0
+1790,Electric field,Reflection (physics),0
+1794,Magnet,Electromotive force,0
+1800,Coulomb's law,Electrostatics,0
+1801,Inelastic collision,Mechanical energy,0
+1802,Distance,Refractive index,0
+1803,Physics,Inertial frame of reference,0
+1804,Magnet,Torque,0
+1806,Amplitude,Field (physics),0
+1807,Friction,Gravitational acceleration,0
+1809,Amplitude,Displacement (vector),0
+1810,Refractive index,Ray (optics),0
+1812,Mirror image,Geometrical optics,0
+1813,Force,Contact force,0
+1814,Electric current,Dielectric,0
+1815,Refraction,Dispersion (optics),0
+1824,Mass,Inelastic collision,0
+1826,Deformation (engineering),Hooke's law,0
+1827,Speed,Acceleration,0
+1828,Electric field,Electromagnetic spectrum,0
+1829,Virtual image,Mirror image,0
+1830,Tension (physics),Transverse wave,0
+1831,Field (physics),Coulomb,0
+1832,Electric potential,Coulomb,0
+1833,Elastic collision,Mechanical energy,0
+1834,Force,Hooke's law,0
+1835,Friction,Le Sage's theory of gravitation,0
+1836,Physics,Fatigue (material),0
+1838,Dispersion (optics),Geometrical optics,0
+1839,Standing wave,Hertz,0
+1840,Magnet,Potential energy,0
+1841,Light,Laser,0
+1842,Velocity,Intensity (physics),0
+1846,Energy,Electric potential,0
+1847,Velocity,Wavelength,0
+1848,Gravity,Newton's law of universal gravitation,0
+1849,Temperature,Mass,0
+1853,Potential energy,Electrostatics,0
+1854,Compass,Force,0
+1857,Plasticity (physics),Strength of materials,0
+1858,Electromotive force,Work (physics),0
+1859,Magnetic field,Wavelength,0
+1860,Physics,Total internal reflection,0
+1862,Distance,Motion graphs and derivatives,0
+1863,Intensity (physics),Amplitude,0
+1865,Specular reflection,Total internal reflection,0
+1866,Light,Refraction,0
+1873,Electromotive force,Magnetism,0
+1874,Electric field,Insulator (electricity),0
+1876,Electromagnetic radiation,Wavelength,0
+1877,Potential energy,Coulomb,0
+1879,Physics,Absorption spectroscopy,0
+1881,Force,Newton's law of universal gravitation,0
+1882,Plasticity (physics),Fracture,0
+1883,Plane mirror,Real image,0
+1884,Speed,Hertz,0
+1886,Electric field,Gravitational field,0
+1887,Force,Gravitational constant,0
+1892,Stiffness,Creep (deformation),0
+1893,Elasticity (physics),Displacement (vector),0
+1894,Amplitude,Sound intensity,0
+1895,Hooke's law,Potential energy,0
+1896,Electron,Doppler effect,0
+1897,Electric field,Field line,0
+1898,Geometrical optics,Refraction,0
+1900,Force,Newton's laws of motion,0
+1902,Electric field,Metre,0
+1905,Gravity of Earth,Gravitational acceleration,0
+1906,Standing wave,Laser,0
+1907,Telescope,Dispersion (optics),0
+1909,Friction,Electrical resistance and conductance,0
+1910,Energy,Coulomb,0
+1913,Diffraction,Plane mirror,0
+1914,Motion (physics),Kinetic energy,0
+1916,Electromagnetic radiation,Scattering,0
+1917,Speed,Force,0
+1918,Hooke's law,Displacement (vector),0
+1920,Real image,Optical microscope,0
+1921,Electric current,Electrical conductor,0
+1922,Electric current,Field (physics),0
+1926,Stiffness,Length,0
+1927,Mass,Frequency,0
+1928,Position (vector),Length,0
+1929,Mass,Equations of motion,0
+1931,Le Sage's theory of gravitation,Coulomb,0
+1935,Force,Collision,0
+1936,Energy,Inelastic collision,0
+1937,Temperature,Fatigue (material),0
+1938,Relative velocity,Doppler effect,0
+1939,Curved mirror,Plane mirror,0
+1940,Physics,Refracting telescope,0
+1941,Physics,Scattering,0
+1942,Acceleration,Mass,0
+1944,Capacitance,Dielectric,0
+1946,Energy,Metre,0
+1949,Voltage,Capacitance,0
+1957,Mass,Le Sage's theory of gravitation,0
+1959,Voltage,Series and parallel circuits,0
+1960,Physics,Velocity,0
+1961,Magnetic field,Work (physics),0

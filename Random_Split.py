@@ -60,7 +60,6 @@ if __name__ == "__main__":
 
             ## Creating the prerequisite graph without transitivity for train_df
             train_G = nx.from_pandas_edgelist(train_df[train_df.label_prereq==1], source='Prerequisite', target='Concept', create_using=nx.DiGraph)
-            train_G = nx.intersection(train_G, nxG)
 
             ## Storing Statistics
             info_split = AddingStatsToDict(info_split, train_df, nxG, train_G, Split_Type='Train', Fold_number=i+1)
