@@ -26,6 +26,7 @@ This repository contains the **code** for our `Graph Split` algorithm, the **con
     + [Embeddings](#embeddings)
       - [How our Embeddings Were Generated](#how-our-embeddings-were-generated)
       - [Metrics](#metrics)
+  * [Hyperparameters](#hyperparameters)
   * [Acknowledgements](#acknowledgements)
   * [Citation](#citation)
 
